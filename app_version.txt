@@ -1,0 +1,117 @@
+{
+  "companies": [
+    {
+      "name": "SF Green Clean",
+      "code": "7126",
+      "com.smrtsystems.apps": {
+        "channel": "test",
+        "base_url": "https://sfgc.smrtapp.com",
+        "title": "SFGC",
+        "url": "https://sfgc.smrtapp.com/POS/",
+        "pusher_channel": "messagessfgc_prod",
+        "store_id": "10001"},
+      "com.smrtsystems.delivery": {"base_url": "https://sfgc.smrtapp.com"}
+    },
+    {
+      "name": "Local Dev Box",
+      "code": "1337",
+      "com.smrtsystems.apps": {
+        "channel": "development",
+        "base_url": "https://orth.smrted.com:8080",
+        "title": "DEV",
+        "url": "https://orth.smrted.com:8080",
+        "pusher_channel": "messagesdev_prod",
+        "store_id": "10006"},
+      "com.smrtsystems.delivery": {"base_url": "https://orth.smrted.com:8080"}
+    },
+    {
+      "name": "Orth Executive Cleaners",
+      "code": "8300",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://orth.smrtapp.com",
+        "title": "ORTH",
+        "url": "https://orth.smrtapp.com/POS/",
+        "pusher_channel": "messagesorth_prod",
+        "store_id": "10006"},
+      "com.smrtsystems.delivery": {"base_url": "https://orth.smrtapp.com"}
+    },
+    {
+      "name": "Hacienda Cleaners",
+      "code": "7687",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://hacienda.smrtapp.com",
+        "title": "HACIENDA",
+        "url": "https://hacienda.smrtapp.com/POS/",
+        "pusher_channel": "messageshacienda_prod",
+        "store_id": "10006"},
+      "com.smrtsystems.delivery": {"base_url": "https://hacienda.smrtapp.com"}
+    },
+    {
+      "name": "Zephyr Cleaners",
+      "code": "7883",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://zephyr.smrtapp.com",
+        "title": "ZEPHYR",
+        "url": "https://zephyr.smrtapp.com/POS/",
+        "pusher_channel": "messageszephyr_prod",
+        "store_id": "10006"},
+      "com.smrtsystems.delivery": {"base_url": "https://zephyr.smrtapp.com"}
+    },
+    {
+      "name": "AJ’s Green Cleaners",
+      "code": "6478",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://ajs.smrtapp.com",
+        "title": "AJ'S",
+        "url": "https://ajs.smrtapp.com/POS/",
+        "pusher_channel": "messagesajs_prod",
+        "store_id": "10006"},
+      "com.smrtsystems.delivery": {"base_url": "https://ajs.smrtapp.com"}
+    },
+    {
+      "name": "New Cleaner 2",
+      "code": "8997",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://sfgc2.smrtapp.com",
+        "title": "SFGC",
+        "url": "https://sfgc2.smrtapp.com/POS/",
+        "pusher_channel": "messagesfoo_prod",
+        "store_id": "10006"},
+      "com.smrtsystems.delivery": {"base_url": "https://sfgc2.smrtapp.com"}
+    }
+  ],
+  "channels": {
+      "development": {
+          "versionCode": 46,
+          "versionName": "Multiple Mollies",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.2.apk",
+          "crc": "9fca7508"
+      },
+
+      "test": {
+          "versionCode": 44,
+          "versionName": "Only Oscar",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.9.1.apk",
+          "crc": "e6acceaf"
+      },
+
+      "implementing": {
+          "versionCode": 44,
+          "versionName": "Only Oscar",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.9.1.apk",
+          "crc": "e6acceaf"
+      },
+
+      "production": {
+          "versionCode": 44,
+          "versionName": "Only Oscar",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.9.1.apk",
+          "crc": "e6acceaf"
+      }
+  }
+}
