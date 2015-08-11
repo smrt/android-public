@@ -52,7 +52,7 @@
       "name": "Zephyr Cleaners",
       "code": "7883",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://zephyr.smrtapp.com",
         "title": "ZEPHYR",
         "url": "https://zephyr.smrtapp.com/POS/",
@@ -101,10 +101,10 @@
       },
 
       "implementing": {
-          "versionCode": 48,
-          "versionName": "Historic Henrik",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.4.apk",
-          "crc": "2514f198"
+          "versionCode": 49,
+          "versionName": "Big Birger",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.5.apk",
+          "crc": "ef2fe095"
       },
 
       "production": {
