@@ -87,31 +87,31 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 47,
-          "versionName": "Chillin Charles",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.3.apk",
-          "crc": "d53656e6"
+          "versionCode": 48,
+          "versionName": "Historic Henrik",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.4.apk",
+          "crc": "2514f198"
       },
 
       "test": {
-          "versionCode": 47,
-          "versionName": "Chillin Charles",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.3.apk",
-          "crc": "d53656e6"
+          "versionCode": 48,
+          "versionName": "Historic Henrik",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.4.apk",
+          "crc": "2514f198"
       },
 
       "implementing": {
-          "versionCode": 47,
-          "versionName": "Chillin Charles",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.3.apk",
-          "crc": "d53656e6"
+          "versionCode": 48,
+          "versionName": "Historic Henrik",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.4.apk",
+          "crc": "2514f198"
       },
 
       "production": {
-          "versionCode": 47,
-          "versionName": "Chillin Charles",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.3.apk",
-          "crc": "d53656e6"
+          "versionCode": 48,
+          "versionName": "Historic Henrik",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.4.apk",
+          "crc": "2514f198"
       }
   }
 }
