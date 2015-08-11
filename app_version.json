@@ -87,10 +87,10 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 46,
-          "versionName": "Multiple Mollies",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.2.apk",
-          "crc": "9fca7508"
+          "versionCode": 47,
+          "versionName": "Chillin Charles",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.3.apk",
+          "crc": "d53656e6"
       },
 
       "test": {
@@ -101,17 +101,17 @@
       },
 
       "implementing": {
-          "versionCode": 44,
-          "versionName": "Only Oscar",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.9.1.apk",
-          "crc": "e6acceaf"
+          "versionCode": 47,
+          "versionName": "Chillin Charles",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.3.apk",
+          "crc": "d53656e6"
       },
 
       "production": {
-          "versionCode": 44,
-          "versionName": "Only Oscar",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.9.1.apk",
-          "crc": "e6acceaf"
+          "versionCode": 47,
+          "versionName": "Chillin Charles",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.3.apk",
+          "crc": "d53656e6"
       }
   }
 }
