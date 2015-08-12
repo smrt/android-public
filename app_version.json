@@ -7,7 +7,6 @@
         "channel": "test",
         "base_url": "https://sfgc.smrtapp.com",
         "title": "SFGC",
-        "url": "https://sfgc.smrtapp.com/POS/",
         "pusher_channel": "messagessfgc_prod",
         "store_id": "10001"},
       "com.smrtsystems.delivery": {"base_url": "https://sfgc.smrtapp.com"}
@@ -19,7 +18,6 @@
         "channel": "development",
         "base_url": "https://orth.smrted.com:8080",
         "title": "DEV",
-        "url": "https://orth.smrted.com:8080",
         "pusher_channel": "messagesdev_prod",
         "store_id": "10006"},
       "com.smrtsystems.delivery": {"base_url": "https://orth.smrted.com:8080"}
