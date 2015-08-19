@@ -99,10 +99,10 @@
       },
 
       "implementing": {
-          "versionCode": 49,
-          "versionName": "Big Birger",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.5.apk",
-          "crc": "ef2fe095"
+          "versionCode": 50,
+          "versionName": "Elder Edward",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.6.apk",
+          "crc": "e1f9ed35"
       },
 
       "production": {
