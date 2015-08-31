@@ -71,6 +71,18 @@
       "com.smrtsystems.delivery": {"base_url": "https://ajs.smrtapp.com"}
     },
     {
+      "name": "JJ's Cleaners",
+      "code": "1880",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://jjs.smrtapp.com",
+        "title": "JJ's",
+        "url": "https://jjs.smrtapp.com/POS/",
+        "pusher_channel": "messagesjjs_prod",
+        "store_id": "10006"},
+      "com.smrtsystems.delivery": {"base_url": "https://jjs.smrtapp.com"}
+    },
+    {
       "name": "New Cleaner 2",
       "code": "8997",
       "com.smrtsystems.apps": {
