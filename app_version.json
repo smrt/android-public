@@ -97,24 +97,24 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 48,
-          "versionName": "Historic Henrik",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.4.apk",
-          "crc": "2514f198"
+          "versionCode": 51,
+          "versionName": "Creamy Chen",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.7.apk",
+          "crc": "83763776"
       },
 
       "test": {
-          "versionCode": 48,
-          "versionName": "Historic Henrik",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.4.apk",
-          "crc": "2514f198"
+          "versionCode": 51,
+          "versionName": "Creamy Chen",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.7.apk",
+          "crc": "83763776"
       },
 
       "implementing": {
-          "versionCode": 50,
-          "versionName": "Elder Edward",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.6.apk",
-          "crc": "e1f9ed35"
+          "versionCode": 51,
+          "versionName": "Creamy Chen",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.7.apk",
+          "crc": "83763776"
       },
 
       "production": {
