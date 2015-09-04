@@ -97,24 +97,24 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 51,
-          "versionName": "Creamy Chen",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.7.apk",
-          "crc": "83763776"
+          "versionCode": 52,
+          "versionName": "Reasonable Rihanna",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.8.apk",
+          "crc": "51765e83"
       },
 
       "test": {
-          "versionCode": 51,
-          "versionName": "Creamy Chen",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.7.apk",
-          "crc": "83763776"
+          "versionCode": 52,
+          "versionName": "Reasonable Rihanna",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.8.apk",
+          "crc": "51765e83"
       },
 
       "implementing": {
-          "versionCode": 51,
-          "versionName": "Creamy Chen",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.7.apk",
-          "crc": "83763776"
+          "versionCode": 52,
+          "versionName": "Reasonable Rihanna",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.8.apk",
+          "crc": "51765e83"
       },
 
       "production": {
