@@ -118,10 +118,10 @@
       },
 
       "production": {
-          "versionCode": 48,
-          "versionName": "Historic Henrik",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.4.apk",
-          "crc": "2514f198"
+          "versionCode": 52,
+          "versionName": "Reasonable Rihanna",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.8.apk",
+          "crc": "51765e83"
       }
   }
 }
