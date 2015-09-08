@@ -97,31 +97,31 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 52,
-          "versionName": "Reasonable Rihanna",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.8.apk",
-          "crc": "51765e83"
+          "versionCode": 53,
+          "versionName": "Runner Robin",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.9.apk",
+          "crc": "ba423bb6"
       },
 
       "test": {
-          "versionCode": 52,
-          "versionName": "Reasonable Rihanna",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.8.apk",
-          "crc": "51765e83"
+          "versionCode": 53,
+          "versionName": "Runner Robin",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.9.apk",
+          "crc": "ba423bb6"
       },
 
       "implementing": {
-          "versionCode": 52,
-          "versionName": "Reasonable Rihanna",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.8.apk",
-          "crc": "51765e83"
+          "versionCode": 53,
+          "versionName": "Runner Robin",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.9.apk",
+          "crc": "ba423bb6"
       },
 
       "production": {
-          "versionCode": 52,
-          "versionName": "Reasonable Rihanna",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.8.apk",
-          "crc": "51765e83"
+          "versionCode": 53,
+          "versionName": "Runner Robin",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.9.apk",
+          "crc": "ba423bb6"
       }
   }
 }
