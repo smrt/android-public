@@ -97,24 +97,24 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 53,
-          "versionName": "Runner Robin",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.9.apk",
-          "crc": "ba423bb6"
+          "versionCode": 54,
+          "versionName": "Jimmy",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.10.apk",
+          "crc": "b4f1e3af"
       },
 
       "test": {
-          "versionCode": 53,
-          "versionName": "Runner Robin",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.9.apk",
-          "crc": "ba423bb6"
+          "versionCode": 54,
+          "versionName": "Jimmy",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.10.apk",
+          "crc": "b4f1e3af"
       },
 
       "implementing": {
-          "versionCode": 53,
-          "versionName": "Runner Robin",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.9.apk",
-          "crc": "ba423bb6"
+          "versionCode": 54,
+          "versionName": "Jimmy",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.10.apk",
+          "crc": "b4f1e3af"
       },
 
       "production": {
