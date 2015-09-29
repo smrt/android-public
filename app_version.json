@@ -128,6 +128,18 @@
       {
         "name": "Hand Held Products 3800G",
         "type": "scanner"
+      },
+      {
+        "name": "Barcode Reader",
+        "type": "scanner"
+      },
+      {
+        "name": "mtk-kpd",
+        "type": "scanner"
+      },
+      {
+        "name": "Virtual",
+        "type": "scanner"
       }
     ]
 }
