@@ -135,11 +135,11 @@
       },
       {
         "name": "mtk-kpd",
-        "type": "unknown"
+        "type": "scanner"
       },
       {
         "name": "Virtual",
-        "type": "keyboard"
+        "type": "scanner"
       }
     ]
 }
