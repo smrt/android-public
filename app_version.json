@@ -97,17 +97,17 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 54,
-          "versionName": "Jimmy",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.10.apk",
-          "crc": "b4f1e3af"
+          "versionCode": 56,
+          "versionName": "Simon Say",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.12.apk",
+          "crc": "7fae5b70"
       },
 
       "test": {
-          "versionCode": 54,
-          "versionName": "Jimmy",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.10.apk",
-          "crc": "b4f1e3af"
+          "versionCode": 56,
+          "versionName": "Simon Say",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.12.apk",
+          "crc": "7fae5b70"
       },
 
       "implementing": {
