@@ -130,7 +130,7 @@
         "type": "scanner"
       },
       {
-        "name": "Barcode Reader",
+        "name": "Barcode Reader ",
         "type": "scanner"
       },
       {
@@ -140,6 +140,26 @@
       {
         "name": "Virtual",
         "type": "keyboard"
+      },
+      {
+        "name": "gpio-keys",
+        "type": "unknown"
+      },
+      {
+        "name": "qpnp_pon",
+        "type": "unknown"
+      },
+      {
+        "name": "Apple Inc. Apple Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "Lite-On Technology Corp HP Android Wired Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "Honeywell Scanning & Mobility  Voyager-1250",
+        "type": "scanner"
       }
     ]
 }
