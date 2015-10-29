@@ -172,6 +172,66 @@
       {
         "name": "Honeywell Scanning & Mobility  Voyager-1250",
         "type": "scanner"
+      },
+      {
+        "name": "Metrologic Metrologic Scanner",
+        "type": "scanner"
+      },
+      {
+        "name": "Megawin Technology Inc. USB Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "©Symbol Technologies, Inc, 2006 Symbol Bar Code Scanner",
+        "type": "scanner"
+      },
+      {
+        "name": "Generic USB Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "Symbol Technologies, Inc, 2008 Symbol Bar Code Scanner",
+        "type": "scanner"
+      },
+      {
+        "name": "Symbol Technologies, Inc, 2008 Symbol Bar Code Scanner",
+        "type": "scanner"
+      },
+      {
+        "name": "sec_touchkey",
+        "type": "unknown"
+      },
+      {
+        "name": "AVRCP",
+        "type": "unknown"
+      },
+      {
+        "name": "Mag-Tek USB Swipe Reader",
+        "type": "cc"
+      },
+      {
+        "name": "Logitech USB Receiver",
+        "type": "unknown"
+      },
+      {
+        "name": "Logitech USB Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "Honeywell Scanning and Mobility Honeywell Scanning and Mobility Scanner",
+        "type": "scanner"
+      },
+      {
+        "name": "Input Device",
+        "type": "unknown"
+      },
+      {
+        "name": "HID c216:0180",
+        "type": "unknown"
+      },
+      {
+        "name": "Lite-On Technology Corp HP Android Wired Keyboard",
+        "type": "keyboard"
       }
     ]
 }
