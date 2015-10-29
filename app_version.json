@@ -123,17 +123,17 @@
       },
 
       "implementing": {
-          "versionCode": 57,
-          "versionName": "Long Lola",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.13.apk",
-          "crc": "cd9843b5"
+          "versionCode": 58,
+          "versionName": "Benny Bo",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.14.apk",
+          "crc": "e0c7d473"
       },
 
       "production": {
-          "versionCode": 57,
-          "versionName": "Long Lola",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.13.apk",
-          "crc": "cd9843b5"
+          "versionCode": 58,
+          "versionName": "Benny Bo",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.14.apk",
+          "crc": "e0c7d473"
       }
   },
   "devices": [
