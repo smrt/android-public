@@ -109,10 +109,10 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 58,
-          "versionName": "Benny Bo",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.14.apk",
-          "crc": "e0c7d473"
+          "versionCode": 59,
+          "versionName": "Pew Paw",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.15.apk",
+          "crc": "a98f71c5"
       },
 
       "test": {
