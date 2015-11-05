@@ -109,17 +109,17 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 59,
-          "versionName": "Pew Paw",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.15.apk",
-          "crc": "a98f71c5"
+          "versionCode": 60,
+          "versionName": "Pow Boom",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.16.apk",
+          "crc": "7d5f86c2"
       },
 
       "test": {
-          "versionCode": 59,
-          "versionName": "Pew Paw",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.15.apk",
-          "crc": "a98f71c5"
+          "versionCode": 60,
+          "versionName": "Pow Boom",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.16.apk",
+          "crc": "7d5f86c2"
       },
 
       "implementing": {
