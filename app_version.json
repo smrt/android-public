@@ -232,6 +232,10 @@
       {
         "name": "Lite-On Technology Corp HP Android Wired Keyboard",
         "type": "keyboard"
+      },
+      {
+        "name": "ID Innovations Inc. Input Device",
+        "type": "unknown"
       }
     ]
 }
