@@ -236,6 +236,10 @@
       {
         "name": "ID Innovations Inc. Input Device",
         "type": "unknown"
+      },
+      {
+        "name": "rk29-keypad",
+        "type": "cc"
       }
     ]
 }
