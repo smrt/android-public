@@ -239,6 +239,10 @@
       },
       {
         "name": "rk29-keypad",
+        "type": "unknown"
+      },
+      {
+        "name": "HID 0801:0001",
         "type": "cc"
       }
     ]
