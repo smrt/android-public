@@ -244,6 +244,10 @@
       {
         "name": "HID 0801:0001",
         "type": "cc"
+      },
+      {
+        "name": "STMicroelectronics STM32 Joystick",
+        "type": "cc"
       }
     ]
 }
