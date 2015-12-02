@@ -116,10 +116,10 @@
       },
 
       "test": {
-          "versionCode": 60,
-          "versionName": "Pow Boom",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.16.apk",
-          "crc": "7d5f86c2"
+          "versionCode": 61,
+          "versionName": "Fredrick Fix",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.17.apk",
+          "crc": "3907e78e"
       },
 
       "implementing": {
