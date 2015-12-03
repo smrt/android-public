@@ -211,7 +211,7 @@
       },
       {
         "name": "Logitech USB Receiver",
-        "type": "unknown"
+        "type": "keyboard"
       },
       {
         "name": "Logitech USB Keyboard",
@@ -227,7 +227,7 @@
       },
       {
         "name": "HID c216:0180",
-        "type": "unknown"
+        "type": "cc"
       },
       {
         "name": "Lite-On Technology Corp HP Android Wired Keyboard",
