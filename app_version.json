@@ -109,31 +109,31 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 60,
-          "versionName": "Pow Boom",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.16.apk",
-          "crc": "7d5f86c2"
+          "versionCode": 62,
+          "versionName": "Bull Brock",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.18.apk",
+          "crc": "cc1346e3"
       },
 
       "test": {
-          "versionCode": 61,
-          "versionName": "Fredrick Fix",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.17.apk",
-          "crc": "3907e78e"
+          "versionCode": 62,
+          "versionName": "Bull Brock",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.18.apk",
+          "crc": "cc1346e3"
       },
 
       "implementing": {
-          "versionCode": 59,
-          "versionName": "Pew Paw",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.15.apk",
-          "crc": "a98f71c5"
+          "versionCode": 62,
+          "versionName": "Bull Brock",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.18.apk",
+          "crc": "cc1346e3"
       },
 
       "production": {
-          "versionCode": 59,
-          "versionName": "Pew Paw",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.15.apk",
-          "crc": "a98f71c5"
+          "versionCode": 62,
+          "versionName": "Bull Brock",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.18.apk",
+          "crc": "cc1346e3"
       }
   },
   "devices": [
