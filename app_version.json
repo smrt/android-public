@@ -109,31 +109,31 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 62,
-          "versionName": "Bull Brock",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.18.apk",
-          "crc": "cc1346e3"
+          "versionCode": 63,
+          "versionName": "Ronja",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.19.apk",
+          "crc": "46bb2a6f"
       },
 
       "test": {
-          "versionCode": 62,
-          "versionName": "Bull Brock",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.18.apk",
-          "crc": "cc1346e3"
+          "versionCode": 63,
+          "versionName": "Ronja",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.19.apk",
+          "crc": "46bb2a6f"
       },
 
       "implementing": {
-          "versionCode": 62,
-          "versionName": "Bull Brock",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.18.apk",
-          "crc": "cc1346e3"
+          "versionCode": 63,
+          "versionName": "Ronja",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.19.apk",
+          "crc": "46bb2a6f"
       },
 
       "production": {
-          "versionCode": 62,
-          "versionName": "Bull Brock",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.18.apk",
-          "crc": "cc1346e3"
+          "versionCode": 63,
+          "versionName": "Ronja",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.19.apk",
+          "crc": "46bb2a6f"
       }
   },
   "devices": [
