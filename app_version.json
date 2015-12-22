@@ -110,9 +110,9 @@
   "channels": {
       "development": {
           "versionCode": 63,
-          "versionName": "Ronja",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.19.apk",
-          "crc": "46bb2a6f"
+          "versionName": "Rajja",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/SmrtApps-armv7-debug.apk",
+          "crc": "818b2c08"
       },
 
       "test": {
