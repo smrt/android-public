@@ -116,10 +116,10 @@
       },
 
       "test": {
-          "versionCode": 63,
-          "versionName": "Ronja",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.19.apk",
-          "crc": "46bb2a6f"
+          "versionCode": 64,
+          "versionName": "Whoopa",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.0.apk",
+          "crc": "ccf27ead"
       },
 
       "implementing": {
