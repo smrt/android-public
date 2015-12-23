@@ -109,10 +109,10 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 63,
-          "versionName": "Rajja",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/SmrtApps-armv7-debug.apk",
-          "crc": "818b2c08"
+          "versionCode": 64,
+          "versionName": "Whoopa",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.0.apk",
+          "crc": "ccf27ead"
       },
 
       "test": {
