@@ -109,17 +109,17 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 65,
-          "versionName": "1.0.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.1.apk",
-          "crc": "83eb0528"
+          "versionCode": 66,
+          "versionName": "1.0.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.2.apk",
+          "crc": "9abcd0ab"
       },
 
       "test": {
-          "versionCode": 65,
-          "versionName": "1.0.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.1.apk",
-          "crc": "83eb0528"
+          "versionCode": 66,
+          "versionName": "1.0.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.2.apk",
+          "crc": "9abcd0ab"
       },
 
       "implementing": {
