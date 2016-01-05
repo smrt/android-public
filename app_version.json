@@ -105,6 +105,18 @@
         "pusher_channel": "messagesfoo_prod",
         "store_id": "10006"},
       "com.smrtsystems.delivery": {"base_url": "https://sfgc2.smrtapp.com"}
+    },
+    {
+      "name": "Garment Care Pros",
+      "code": "2039",
+      "com.smrtsystems.apps": {
+        "channel": "implementing",
+        "base_url": "https://garmentcarepros.smrtapp.com",
+        "title": "GCP",
+        "url": "https://garmentcarepros.smrtapp.com/POS/",
+        "pusher_channel": "messagesgarmentcarepros_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://garmentcarepros.smrtapp.com"}
     }
   ],
   "channels": {
@@ -123,10 +135,10 @@
       },
 
       "implementing": {
-          "versionCode": 63,
-          "versionName": "Ronja",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.19.apk",
-          "crc": "46bb2a6f"
+          "versionCode": 66,
+          "versionName": "1.0.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.2.apk",
+          "crc": "9abcd0ab"
       },
 
       "production": {
