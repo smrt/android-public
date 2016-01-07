@@ -117,6 +117,18 @@
         "pusher_channel": "messagesgarmentcarepros_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://garmentcarepros.smrtapp.com"}
+    },
+    {
+      "name": "DC-2U",
+      "code": "8430",
+      "com.smrtsystems.apps": {
+        "channel": "implementing",
+        "base_url": "https://dc2u.smrtapp.com",
+        "title": "DC2U",
+        "url": "https://dc2u.smrtapp.com/POS/",
+        "pusher_channel": "messagesdc2u_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://dc2u.smrtapp.com"}
     }
   ],
   "channels": {
