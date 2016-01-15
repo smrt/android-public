@@ -272,6 +272,10 @@
       {
         "name": "STMicroelectronics STM32 Joystick",
         "type": "cc"
+      },
+      {
+        "name": "Broadcom Bluetooth HID",
+        "type": "keyboard"
       }
     ]
 }
