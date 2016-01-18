@@ -129,6 +129,18 @@
         "pusher_channel": "messagesdc2u_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://dc2u.smrtapp.com"}
+    },
+    {
+      "name": "Starbright Cleaners",
+      "code": "1364",
+      "com.smrtsystems.apps": {
+        "channel": "implementing",
+        "base_url": "https://starbrightinc.smrtapp.com",
+        "title": "Starbright",
+        "url": "https://starbrightinc.smrtapp.com/POS/",
+        "pusher_channel": "messagesstarbrightinc_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://starbrightinc.smrtapp.com"}
     }
   ],
   "channels": {
