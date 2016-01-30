@@ -288,6 +288,10 @@
       {
         "name": "Broadcom Bluetooth HID",
         "type": "keyboard"
+      },
+      {
+        "name": "Microsoft Microsoft® 2.4GHz Transceiver v6.0",
+        "type": "keyboard"
       }
     ]
 }
