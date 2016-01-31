@@ -141,6 +141,18 @@
         "pusher_channel": "messagesstarbrightinc_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://starbrightinc.smrtapp.com"}
+    },
+    {
+      "name": "Meurice Garment Care",
+      "code": "8743",
+      "com.smrtsystems.apps": {
+        "channel": "implementing",
+        "base_url": "https://meurice.smrtapp.com",
+        "title": "Meurice",
+        "url": "https://meurice.smrtapp.com/POS/",
+        "pusher_channel": "messagesmeurice_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://meurice.smrtapp.com"}
     }
   ],
   "channels": {
