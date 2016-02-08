@@ -157,10 +157,10 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 70,
-          "versionName": "1.0.6",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.6.apk",
-          "crc": "ede3bd54"
+          "versionCode": 71,
+          "versionName": "1.0.7",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.7.apk",
+          "crc": "9ed6c2fd"
       },
 
       "test": {
