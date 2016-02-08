@@ -164,10 +164,10 @@
       },
 
       "test": {
-          "versionCode": 69,
-          "versionName": "1.0.5",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.5.apk",
-          "crc": "965de0cb"
+          "versionCode": 71,
+          "versionName": "1.0.7",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.7.apk",
+          "crc": "9ed6c2fd"
       },
 
       "implementing": {
