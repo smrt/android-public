@@ -62,7 +62,7 @@
       "name": "AJ’s Green Cleaners",
       "code": "6478",
       "com.smrtsystems.apps": {
-        "channel": "testing",
+        "channel": "test",
         "base_url": "https://ajs.smrtapp.com",
         "title": "AJ'S",
         "url": "https://ajs.smrtapp.com/POS/",
