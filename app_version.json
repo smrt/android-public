@@ -1,6 +1,17 @@
 {
   "companies": [
     {
+      "name": "QA",
+      "code": "1111",
+      "com.smrtsystems.apps": {
+        "channel": "qa",
+        "base_url": "https://qa.smrtapp.com",
+        "title": "QA",
+        "pusher_channel": "messagesqa_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://qa.smrtapp.com"}
+    },
+    {
       "name": "SF Green Clean",
       "code": "7126",
       "com.smrtsystems.apps": {
@@ -157,6 +168,13 @@
   ],
   "channels": {
       "development": {
+          "versionCode": 74,
+          "versionName": "1.0.10",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.10.apk",
+          "crc": "9c64a3b3"
+      },
+
+      "qa": {
           "versionCode": 74,
           "versionName": "1.0.10",
           "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.10.apk",
