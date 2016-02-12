@@ -196,10 +196,10 @@
       },
 
       "production": {
-          "versionCode": 63,
-          "versionName": "Ronja",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.19.apk",
-          "crc": "46bb2a6f"
+          "versionCode": 76,
+          "versionName": "Many Ronjas",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.20.apk",
+          "crc": "3b4cbdf2"
       }
   },
   "devices": [
