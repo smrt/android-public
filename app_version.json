@@ -73,7 +73,7 @@
       "name": "AJ’s Green Cleaners",
       "code": "6478",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "test",
         "base_url": "https://ajs.smrtapp.com",
         "title": "AJ'S",
         "url": "https://ajs.smrtapp.com/POS/",
@@ -321,6 +321,10 @@
       },
       {
         "name": "Microsoft Microsoft® 2.4GHz Transceiver v6.0",
+        "type": "keyboard"
+      },
+      {
+        "name": "Chicony USB Keyboard",
         "type": "keyboard"
       }
     ]
