@@ -157,7 +157,7 @@
       "name": "Meurice Garment Care",
       "code": "8743",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "test",
         "base_url": "https://meurice.smrtapp.com",
         "title": "Meurice",
         "url": "https://meurice.smrtapp.com/POS/",
