@@ -182,24 +182,24 @@
       },
 
       "test": {
-          "versionCode": 75,
-          "versionName": "1.0.11",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.11.apk",
-          "crc": "1aeba5df"
+          "versionCode": 77,
+          "versionName": "1.0.12",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.12.apk",
+          "crc": "e67e038f"
       },
 
       "implementing": {
-          "versionCode": 74,
-          "versionName": "1.0.10",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.10.apk",
-          "crc": "9c64a3b3"
+          "versionCode": 77,
+          "versionName": "1.0.12",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.12.apk",
+          "crc": "e67e038f"
       },
 
       "production": {
-          "versionCode": 76,
-          "versionName": "Many Ronjas",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-0.10.20.apk",
-          "crc": "3b4cbdf2"
+          "versionCode": 77,
+          "versionName": "1.0.12",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.12.apk",
+          "crc": "e67e038f"
       }
   },
   "devices": [
