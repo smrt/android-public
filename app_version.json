@@ -73,7 +73,7 @@
       "name": "AJ’s Green Cleaners",
       "code": "6478",
       "com.smrtsystems.apps": {
-        "channel": "test",
+        "channel": "production",
         "base_url": "https://ajs.smrtapp.com",
         "title": "AJ'S",
         "url": "https://ajs.smrtapp.com/POS/",
@@ -121,7 +121,7 @@
       "name": "Garment Care Pros",
       "code": "2039",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://garmentcarepros.smrtapp.com",
         "title": "GCP",
         "url": "https://garmentcarepros.smrtapp.com/POS/",
@@ -133,7 +133,7 @@
       "name": "DC-2U",
       "code": "8430",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://dc2u.smrtapp.com",
         "title": "DC2U",
         "url": "https://dc2u.smrtapp.com/POS/",
@@ -145,7 +145,7 @@
       "name": "Starbright Cleaners",
       "code": "1364",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://starbrightinc.smrtapp.com",
         "title": "Starbright",
         "url": "https://starbrightinc.smrtapp.com/POS/",
@@ -157,7 +157,7 @@
       "name": "Meurice Garment Care",
       "code": "8743",
       "com.smrtsystems.apps": {
-        "channel": "test",
+        "channel": "implementing",
         "base_url": "https://meurice.smrtapp.com",
         "title": "Meurice",
         "url": "https://meurice.smrtapp.com/POS/",
