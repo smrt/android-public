@@ -168,31 +168,31 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 78,
-          "versionName": "1.0.13",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.13.apk",
-          "crc": "c4663a06"
+          "versionCode": 79,
+          "versionName": "1.0.14",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.14.apk",
+          "crc": "7e5cd1b6"
       },
 
       "qa": {
-          "versionCode": 78,
-          "versionName": "1.0.13",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.13.apk",
-          "crc": "c4663a06"
+          "versionCode": 79,
+          "versionName": "1.0.14",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.14.apk",
+          "crc": "7e5cd1b6"
       },
 
       "test": {
-          "versionCode": 78,
+          "versionCode": 79,
           "versionName": "1.0.13",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.13.apk",
-          "crc": "c4663a06"
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.14.apk",
+          "crc": "7e5cd1b6"
       },
 
       "implementing": {
-          "versionCode": 78,
+          "versionCode": 79,
           "versionName": "1.0.13",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.13.apk",
-          "crc": "c4663a06"
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.14.apk",
+          "crc": "7e5cd1b6"
       },
 
       "production": {
