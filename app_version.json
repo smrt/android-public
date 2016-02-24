@@ -196,10 +196,10 @@
       },
 
       "production": {
-          "versionCode": 77,
-          "versionName": "1.0.12",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.12.apk",
-          "crc": "e67e038f"
+          "versionCode": 78,
+          "versionName": "1.0.13",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.0.13.apk",
+          "crc": "c4663a06"
       }
   },
   "devices": [
