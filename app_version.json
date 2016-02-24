@@ -164,6 +164,18 @@
         "pusher_channel": "messagesmeurice_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://meurice.smrtapp.com"}
+    },
+    {
+      "name": "Crest Advanced Dry Cleaners",
+      "code": "9669",
+      "com.smrtsystems.apps": {
+        "channel": "implementing",
+        "base_url": "https://crest.smrtapp.com",
+        "title": "Crest",
+        "url": "https://crest.smrtapp.com/POS/",
+        "pusher_channel": "messagescrest_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://crest.smrtapp.com"}
     }
   ],
   "channels": {
