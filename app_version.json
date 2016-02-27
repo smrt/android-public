@@ -49,7 +49,7 @@
       "name": "Hacienda Cleaners",
       "code": "7687",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://hacienda.smrtapp.com",
         "title": "HACIENDA",
         "url": "https://hacienda.smrtapp.com/POS/",
