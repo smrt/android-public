@@ -336,7 +336,15 @@
         "type": "keyboard"
       },
       {
+        "name": "Microsoft Microsoft® 2.4GHz Transceiver v8.0",
+        "type": "keyboard"
+      },
+      {
         "name": "Chicony USB Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "Logitech Unifying Device. Wireless PID:4003",
         "type": "keyboard"
       }
     ]
