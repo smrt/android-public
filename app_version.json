@@ -176,6 +176,18 @@
         "pusher_channel": "messagescrest_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://crest.smrtapp.com"}
+    },
+    {
+      "name": "Kingbridge Cleaners & Tailors",
+      "code": "7424",
+      "com.smrtsystems.apps": {
+        "channel": "implementing",
+        "base_url": "https://kingbridge.smrtapp.com",
+        "title": "Kingbridge",
+        "url": "https://kingbridge.smrtapp.com/POS/",
+        "pusher_channel": "messagescrest_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://kingbridge.smrtapp.com"}
     }
   ],
   "channels": {
