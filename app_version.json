@@ -358,6 +358,10 @@
       {
         "name": "Logitech Unifying Device. Wireless PID:4003",
         "type": "keyboard"
+      },
+      {
+        "name": "USB USB Keykoard",
+        "type": "keyboard"
       }
     ]
 }
