@@ -386,6 +386,10 @@
       {
         "name": "USB USB Keykoard",
         "type": "keyboard"
+      },
+      {
+        "name": "Dell Dell USB Keyboard",
+        "type": "keyboard"
       }
     ]
 }
