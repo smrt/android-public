@@ -390,6 +390,10 @@
       {
         "name": "Dell Dell USB Keyboard",
         "type": "keyboard"
+      },
+      {
+        "name": "Honeywell Honeywell Scanning and Mobility Scanner",
+        "type": "scanner"
       }
     ]
 }
