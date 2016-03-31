@@ -61,7 +61,7 @@
       "name": "Zephyr Cleaners",
       "code": "7883",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://zephyr.smrtapp.com",
         "title": "ZEPHYR",
         "url": "https://zephyr.smrtapp.com/POS/",
@@ -157,7 +157,7 @@
       "name": "Meurice Garment Care",
       "code": "8743",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://meurice.smrtapp.com",
         "title": "Meurice",
         "url": "https://meurice.smrtapp.com/POS/",
@@ -169,7 +169,7 @@
       "name": "Crest Advanced Dry Cleaners",
       "code": "9669",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://crest.smrtapp.com",
         "title": "Crest",
         "url": "https://crest.smrtapp.com/POS/",
@@ -181,7 +181,7 @@
       "name": "Kingbridge",
       "code": "7424",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://kingbridge.smrtapp.com",
         "title": "Kingbridge",
         "url": "https://kingbridge.smrtapp.com/POS/",
@@ -193,7 +193,7 @@
       "name": "Brian's One Day Cleaners",
       "code": "5409",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://brians.smrtapp.com",
         "title": "Brian's One Day Cleaners",
         "url": "https://brians.smrtapp.com/POS/",
@@ -205,7 +205,7 @@
       "name": "Pier Cleaners",
       "code": "3300",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://piercleaners.smrtapp.com",
         "title": "Pier Cleaners",
         "url": "https://pierpiercleaners.smrtapp.com/POS/",
