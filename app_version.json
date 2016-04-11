@@ -394,6 +394,18 @@
       {
         "name": "Honeywell Honeywell Scanning and Mobility Scanner",
         "type": "scanner"
+      },
+      {
+        "name": "Dell Dell USB Keyboard Hub",
+        "type": "keyboard"
+      },
+      {
+        "name": "PSC PSC\r\nKeyboard HID",
+        "type": "scanner"
+      },
+      {
+        "name": "Logitech Unifying Device. Wireless PID:4004",
+        "type": "keyboard"
       }
     ]
 }
