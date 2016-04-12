@@ -406,6 +406,10 @@
       {
         "name": "Logitech Unifying Device. Wireless PID:4004",
         "type": "keyboard"
+      },
+      {
+        "name": "DELL DELL USB Keyboard",
+        "type": "keyboard"
       }
     ]
 }
