@@ -205,7 +205,7 @@
       "name": "Pier Cleaners",
       "code": "3300",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://piercleaners.smrtapp.com",
         "title": "Pier Cleaners",
         "url": "https://pierpiercleaners.smrtapp.com/POS/",
@@ -216,31 +216,31 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 87,
-          "versionName": "1.1.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.1.apk",
-          "crc": "9f025a98"
+          "versionCode": 88,
+          "versionName": "1.1.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.2.apk",
+          "crc": "74f54838"
       },
 
       "qa": {
-          "versionCode": 87,
-          "versionName": "1.1.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.1.apk",
-          "crc": "9f025a98"
+          "versionCode": 88,
+          "versionName": "1.1.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.2.apk",
+          "crc": "74f54838"
       },
 
       "test": {
-          "versionCode": 87,
-          "versionName": "1.1.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.1.apk",
-          "crc": "9f025a98"
+          "versionCode": 88,
+          "versionName": "1.1.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.2.apk",
+          "crc": "74f54838"
       },
 
       "implementing": {
-          "versionCode": 87,
-          "versionName": "1.1.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.1.apk",
-          "crc": "9f025a98"
+          "versionCode": 88,
+          "versionName": "1.1.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.2.apk",
+          "crc": "74f54838"
       },
 
       "production": {
