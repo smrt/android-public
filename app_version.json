@@ -190,6 +190,18 @@
       "com.smrtsystems.delivery": {"base_url": "https://kingbridge.smrtapp.com"}
     },
     {
+      "name": "Snedicor's",
+      "code": "7633",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://snedicors.smrtapp.com",
+        "title": "Snedicor's",
+        "url": "https://snedicors.smrtapp.com/POS/",
+        "pusher_channel": "messagessnedicors_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://snedicors.smrtapp.com"}
+    },
+    {
       "name": "Brian's One Day Cleaners",
       "code": "5409",
       "com.smrtsystems.apps": {
