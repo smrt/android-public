@@ -422,6 +422,10 @@
       {
         "name": "DELL DELL USB Keyboard",
         "type": "keyboard"
+      },
+      {
+        "name": "   Wasp Barcode",
+        "type": "scanner"
       }
     ]
 }
