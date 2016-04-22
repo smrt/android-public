@@ -228,38 +228,38 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 89,
-          "versionName": "1.1.3",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.3.apk",
-          "crc": "b338cb28"
+          "versionCode": 90,
+          "versionName": "1.1.4",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.4.apk",
+          "crc": "1f878ee0"
       },
 
       "qa": {
-          "versionCode": 89,
-          "versionName": "1.1.3",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.3.apk",
-          "crc": "b338cb28"
+          "versionCode": 90,
+          "versionName": "1.1.4",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.4.apk",
+          "crc": "1f878ee0"
       },
 
       "test": {
-          "versionCode": 89,
-          "versionName": "1.1.3",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.3.apk",
-          "crc": "b338cb28"
+          "versionCode": 90,
+          "versionName": "1.1.4",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.4.apk",
+          "crc": "1f878ee0"
       },
 
       "implementing": {
-          "versionCode": 88,
-          "versionName": "1.1.2",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.2.apk",
-          "crc": "74f54838"
+          "versionCode": 90,
+          "versionName": "1.1.4",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.4.apk",
+          "crc": "1f878ee0"
       },
 
       "production": {
-          "versionCode": 88,
-          "versionName": "1.1.2",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.2.apk",
-          "crc": "74f54838"
+          "versionCode": 90,
+          "versionName": "1.1.4",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.4.apk",
+          "crc": "1f878ee0"
       }
   },
   "devices": [
