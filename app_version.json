@@ -426,6 +426,10 @@
       {
         "name": "   Wasp Barcode",
         "type": "scanner"
+      },
+      {
+        "name": "MOSART Semi. 2.4G RF Keyboard & Mouse",
+        "type": "keyboard"
       }
     ]
 }
