@@ -249,17 +249,17 @@
       },
 
       "implementing": {
-          "versionCode": 90,
-          "versionName": "1.1.4",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.4.apk",
-          "crc": "1f878ee0"
+          "versionCode": 93,
+          "versionName": "1.1.6",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.6.apk",
+          "crc": "ad6245ee"
       },
 
       "production": {
-          "versionCode": 90,
-          "versionName": "1.1.4",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.4.apk",
-          "crc": "1f878ee0"
+          "versionCode": 93,
+          "versionName": "1.1.6",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.1.6.apk",
+          "crc": "ad6245ee"
       }
   },
   "devices": [
