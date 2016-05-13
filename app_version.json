@@ -430,6 +430,10 @@
       {
         "name": "MOSART Semi. 2.4G RF Keyboard & Mouse",
         "type": "keyboard"
+      },
+      {
+        "name": "SIGMACHIP USB Keyboard",
+        "type": "keyboard"
       }
     ]
 }
