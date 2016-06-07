@@ -224,6 +224,18 @@
         "pusher_channel": "messagessnedicors_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://snedicors.smrtapp.com"}
+    },
+    {
+      "name": "Paragon Cleaners",
+      "code": "7272",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://paragon.smrtapp.com",
+        "title": "Paragon Cleaners",
+        "url": "https://paragon.smrtapp.com/POS/",
+        "pusher_channel": "messagesparagon_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://paragon.smrtapp.com"}
     }
   ],
   "channels": {
