@@ -236,6 +236,18 @@
         "pusher_channel": "messagesparagon_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://paragon.smrtapp.com"}
+    },
+    {
+      "name": "Colorado Cleaners",
+      "code": "2656",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://coloradocleaners.smrtapp.com",
+        "title": "Colorado Cleaners",
+        "url": "https://coloradocleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagescoloradocleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://coloradocleaners.smrtapp.com"}
     }
   ],
   "channels": {
