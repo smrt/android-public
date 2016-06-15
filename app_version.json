@@ -252,10 +252,10 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 97,
-          "versionName": "1.2.2",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.2.apk",
-          "crc": "7418c6eb"
+          "versionCode": 98,
+          "versionName": "1.2.3",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.3.apk",
+          "crc": "06bcb23c"
       },
 
       "qa": {
