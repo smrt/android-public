@@ -458,6 +458,10 @@
       {
         "name": "SIGMACHIP USB Keyboard",
         "type": "keyboard"
+      },
+      {
+        "name": "Honeywell Scanning & Mobility  Voyager-1200",
+        "type": "scanner"
       }
     ]
 }
