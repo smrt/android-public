@@ -466,6 +466,10 @@
       {
         "name": "  USB Keyboard",
         "type": "keyboard"
+      },
+      {
+        "name": "ID Innovations Inc. Magnetic Card Reader",
+        "type": "cc"
       }
     ]
 }
