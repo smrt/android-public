@@ -27,11 +27,11 @@
       "code": "1337",
       "com.smrtsystems.apps": {
         "channel": "development",
-        "base_url": "https://orth.smrted.com:8080",
+        "base_url": "https://192.168.1.31:8222",
         "title": "DEV",
         "pusher_channel": "messagesdev_prod",
         "store_id": "10006"},
-      "com.smrtsystems.delivery": {"base_url": "https://orth.smrted.com:8080"}
+      "com.smrtsystems.delivery": {"base_url": "https://192.168.1.31:8222"}
     },
     {
       "name": "Orth Executive Cleaners",
