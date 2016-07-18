@@ -181,7 +181,7 @@
       "name": "Kingbridge",
       "code": "7424",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://kingbridge.smrtapp.com",
         "title": "Kingbridge",
         "url": "https://kingbridge.smrtapp.com/POS/",
@@ -252,31 +252,31 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 105,
-          "versionName": "1.2.10",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.10.apk",
-          "crc": "98f588e2"
+          "versionCode": 106,
+          "versionName": "1.2.11",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.11.apk",
+          "crc": "adad989b"
       },
 
       "qa": {
-          "versionCode": 105,
-          "versionName": "1.2.10",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.10.apk",
-          "crc": "98f588e2"
+          "versionCode": 106,
+          "versionName": "1.2.11",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.11.apk",
+          "crc": "adad989b"
       },
 
       "test": {
-          "versionCode": 105,
-          "versionName": "1.2.10",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.10.apk",
-          "crc": "98f588e2"
+          "versionCode": 106,
+          "versionName": "1.2.11",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.11.apk",
+          "crc": "adad989b"
       },
 
       "implementing": {
-          "versionCode": 105,
-          "versionName": "1.2.10",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.10.apk",
-          "crc": "98f588e2"
+          "versionCode": 106,
+          "versionName": "1.2.11",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.11.apk",
+          "crc": "adad989b"
       },
 
       "production": {
