@@ -252,10 +252,10 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 106,
-          "versionName": "1.2.11",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.11.apk",
-          "crc": "adad989b",
+          "versionCode": 108,
+          "versionName": "1.2.13",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.13.apk",
+          "crc": "92eb077f",
           "message": "Cool stuff incoming",
           "emoji": "&#x1F60E"
       },
