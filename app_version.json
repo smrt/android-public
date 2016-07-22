@@ -255,7 +255,9 @@
           "versionCode": 106,
           "versionName": "1.2.11",
           "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.11.apk",
-          "crc": "adad989b"
+          "crc": "adad989b",
+          "message": "Cool stuff incoming",
+          "emoji": "&#x1F60E"
       },
 
       "qa": {
