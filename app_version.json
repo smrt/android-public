@@ -252,28 +252,28 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 109,
-          "versionName": "1.2.14",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.14.apk",
-          "crc": "5f8d56f7",
+          "versionCode": 110,
+          "versionName": "1.2.15",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.15.apk",
+          "crc": "4ff47d34",
           "message": "I accidently broke the logs but hey they are stored and waiting for this update!",
           "emoji": "&#x1F916"
       },
 
       "qa": {
-          "versionCode": 109,
-          "versionName": "1.2.14",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.14.apk",
-          "crc": "5f8d56f7",
+          "versionCode": 110,
+          "versionName": "1.2.15",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.15.apk",
+          "crc": "4ff47d34",
           "message": "Thank you Luigi for your great work!",
           "emoji": "&#x1F44D"
       },
 
       "test": {
-          "versionCode": 109,
-          "versionName": "1.2.14",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.14.apk",
-          "crc": "5f8d56f7",
+          "versionCode": 110,
+          "versionName": "1.2.15",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.15.apk",
+          "crc": "4ff47d34",
           "message": "Updates just arrived to make you and SF Green Clean more efficient!",
           "emoji": "&#x270C"
       },
