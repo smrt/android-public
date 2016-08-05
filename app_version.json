@@ -248,6 +248,18 @@
         "pusher_channel": "messagescoloradocleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://coloradocleaners.smrtapp.com"}
+    },
+    {
+      "name": "Benzingers Cleaners",
+      "code": "2369",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://benzingers.smrtapp.com",
+        "title": "Benzingers Cleaners",
+        "url": "https://benzingers.smrtapp.com/POS/",
+        "pusher_channel": "messagesbenzingers_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://benzingers.smrtapp.com"}
     }
   ],
   "channels": {
