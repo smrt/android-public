@@ -253,7 +253,7 @@
       "name": "Benzingers Cleaners",
       "code": "2369",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://benzingers.smrtapp.com",
         "title": "Benzingers Cleaners",
         "url": "https://benzingers.smrtapp.com/POS/",
@@ -273,28 +273,30 @@
       },
 
       "qa": {
-          "versionCode": 110,
-          "versionName": "1.2.15",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.15.apk",
-          "crc": "4ff47d34",
-          "message": "Thank you Luigi for your great work!",
+          "versionCode": 111,
+          "versionName": "1.2.16",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.16.apk",
+          "crc": "59ef5723",
+          "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F44D"
       },
 
       "test": {
-          "versionCode": 110,
-          "versionName": "1.2.15",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.15.apk",
-          "crc": "4ff47d34",
-          "message": "Updates just arrived to make you and SF Green Clean more efficient!",
-          "emoji": "&#x270C"
+          "versionCode": 111,
+          "versionName": "1.2.16",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.16.apk",
+          "crc": "59ef5723",
+          "message": "We have made some updates for you. Press update to try them out!",
+          "emoji": "&#x1F600"
       },
 
       "implementing": {
-          "versionCode": 110,
-          "versionName": "1.2.15",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.15.apk",
-          "crc": "4ff47d34"
+          "versionCode": 111,
+          "versionName": "1.2.16",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.16.apk",
+          "crc": "59ef5723",
+          "message": "We have made some updates for you. Press update to try them out!",
+          "emoji": "&#x1F600"
       },
 
       "production": {
