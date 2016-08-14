@@ -490,6 +490,10 @@
       {
         "name": "ID Innovations Inc. Magnetic Card Reader",
         "type": "cc"
+      },
+      {
+        "name": "Logitech Unifying Device. Wireless PID:4016",
+        "type": "keyboard"
       }
     ]
 }
