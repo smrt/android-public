@@ -265,7 +265,7 @@
       "name": "Redcap Services",
       "code": "7332",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://redcap.smrtapp.com",
         "title": "Redcap Services",
         "url": "https://redcap.smrtapp.com/POS/",
