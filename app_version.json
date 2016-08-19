@@ -260,6 +260,18 @@
         "pusher_channel": "messagesbenzingers_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://benzingers.smrtapp.com"}
+    },
+    {
+      "name": "Redcap Services",
+      "code": "7332",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://redcap.smrtapp.com",
+        "title": "Redcap Services",
+        "url": "https://redcap.smrtapp.com/POS/",
+        "pusher_channel": "messagesredcap_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://redcap.smrtapp.com"}
     }
   ],
   "channels": {
