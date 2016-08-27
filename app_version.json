@@ -272,7 +272,7 @@
         "pusher_channel": "messagesredcap_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://redcap.smrtapp.com"}
-    }
+    },
     {
       "name": "Restore Cleaners",
       "code": "2040",
