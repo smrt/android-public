@@ -205,7 +205,7 @@
       "name": "Pier Cleaners",
       "code": "3300",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://piercleaners.smrtapp.com",
         "title": "Pier Cleaners",
         "url": "https://pierpiercleaners.smrtapp.com/POS/",
