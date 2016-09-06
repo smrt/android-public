@@ -288,19 +288,19 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 113,
-          "versionName": "1.2.18",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.18.apk",
-          "crc": "bae8efe1",
+          "versionCode": 114,
+          "versionName": "1.2.19",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.19.apk",
+          "crc": "d6cdaafa",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "qa": {
-          "versionCode": 113,
-          "versionName": "1.2.18",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.18.apk",
-          "crc": "bae8efe1",
+          "versionCode": 114,
+          "versionName": "1.2.19",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.19.apk",
+          "crc": "d6cdaafa",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
