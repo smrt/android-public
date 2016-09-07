@@ -27,7 +27,7 @@
       "code": "1337",
       "com.smrtsystems.apps": {
         "channel": "development",
-        "base_url": "https://192.168.0.23:8222",
+        "base_url": "https://192.168.0.22:8222",
         "title": "DEV",
         "pusher_channel": "messagesdev_prod",
         "store_id": "10006"},
