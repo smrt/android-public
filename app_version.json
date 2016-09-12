@@ -315,19 +315,19 @@
       },
 
       "implementing": {
-          "versionCode": 115,
-          "versionName": "1.2.20",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.20.apk",
-          "crc": "f5f6f23d",
+          "versionCode": 116,
+          "versionName": "1.2.21",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.21.apk",
+          "crc": "6121b2ee",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "production": {
-          "versionCode": 115,
-          "versionName": "1.2.20",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.20.apk",
-          "crc": "f5f6f23d",
+          "versionCode": 116,
+          "versionName": "1.2.21",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.21.apk",
+          "crc": "6121b2ee",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       }
