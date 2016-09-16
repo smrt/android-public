@@ -284,6 +284,18 @@
         "pusher_channel": "messagesrestorecleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://restorecleaners.smrtapp.com"}
+    },
+    {
+      "name": "Alsa Tintoreria",
+      "code": "2572",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://alsatintoreria.smrtapp.com",
+        "title": "Alsa Tintoreria",
+        "url": "https://alsatintoreria.smrtapp.com/POS/",
+        "pusher_channel": "messagesalsatintoreria",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://alsatintoreria.smrtapp.com"}
     }
   ],
   "channels": {
