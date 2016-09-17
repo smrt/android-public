@@ -532,6 +532,22 @@
       {
         "name": "Logitech Unifying Device. Wireless PID:4016",
         "type": "keyboard"
+      },
+      {
+        "name": "Chicony HP Elite USB Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "Honeywell Scanning & Mobility Voyager-1202",
+        "type": "scanner"
+      },
+      {
+        "name": "CHICONY USB Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "USB Keyboard",
+        "type": "keyboard"
       }
     ]
 }
