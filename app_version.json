@@ -12,6 +12,17 @@
       "com.smrtsystems.delivery": {"base_url": "https://qa.smrtapp.com"}
     },
     {
+      "name": "Sandbox",
+      "code": "0000",
+      "com.smrtsystems.apps": {
+        "channel": "qa",
+        "base_url": "https://sandbox.smrtapp.com",
+        "title": "Sandbox",
+        "pusher_channel": "messagessandbox_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://sandbox.smrtapp.com"}
+    },
+    {
       "name": "SF Green Clean",
       "code": "7126",
       "com.smrtsystems.apps": {
