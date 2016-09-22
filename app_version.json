@@ -180,7 +180,7 @@
       "name": "Crest Advanced Dry Cleaners",
       "code": "9669",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://crest.smrtapp.com",
         "title": "Crest",
         "url": "https://crest.smrtapp.com/POS/",
@@ -329,19 +329,19 @@
       },
 
       "test": {
-          "versionCode": 116,
-          "versionName": "1.2.21",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.21.apk",
-          "crc": "6121b2ee",
+          "versionCode": 117,
+          "versionName": "1.3.0",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.3.0.apk",
+          "crc": "87613478",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "implementing": {
-          "versionCode": 116,
-          "versionName": "1.2.21",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.2.21.apk",
-          "crc": "6121b2ee",
+          "versionCode": 117,
+          "versionName": "1.3.0",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.3.0.apk",
+          "crc": "87613478",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
