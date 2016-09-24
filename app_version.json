@@ -559,6 +559,10 @@
       {
         "name": "USB Keyboard",
         "type": "keyboard"
+      },
+      {
+        "name": "Honeywell Scanning & Mobility  Voyager-1202",
+        "type": "scanner"
       }
     ]
 }
