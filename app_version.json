@@ -353,8 +353,7 @@
           "crc": "6121b2ee",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
-      }
-
+      },
       "contact": {
           "versionCode": 117,
           "versionName": "1.3.0",
@@ -362,7 +361,7 @@
           "crc": "87613478",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
-      },
+      }
   },
   "devices": [
       {
