@@ -571,6 +571,10 @@
       {
         "name": "Honeywell Scanning & Mobility  Voyager-1202",
         "type": "scanner"
+      },
+      {
+        "name": "Honeywell Imaging & Mobility 1900",
+        "type": "scanner"
       }
     ]
 }
