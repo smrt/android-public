@@ -297,16 +297,16 @@
       "com.smrtsystems.delivery": {"base_url": "https://restorecleaners.smrtapp.com"}
     },
     {
-      "name": "Alsa Tintoreria",
+      "name": "Tintoreria Bosques",
       "code": "2572",
       "com.smrtsystems.apps": {
         "channel": "production",
-        "base_url": "https://alsatintoreria.smrtapp.com",
-        "title": "Alsa Tintoreria",
-        "url": "https://alsatintoreria.smrtapp.com/POS/",
-        "pusher_channel": "messagesalsatintoreria",
+        "base_url": "https://tintoreriabosques.smrtapp.com",
+        "title": "Tintoreria Bosques",
+        "url": "https://tintoreriabosques.smrtapp.com/POS/",
+        "pusher_channel": "messagestintoreriabosques",
         "store_id": "10005"},
-      "com.smrtsystems.delivery": {"base_url": "https://alsatintoreria.smrtapp.com"}
+      "com.smrtsystems.delivery": {"base_url": "https://tintoreriabosques.smrtapp.com"}
     }
   ],
   "channels": {
