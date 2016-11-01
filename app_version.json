@@ -575,6 +575,14 @@
       {
         "name": "Honeywell Imaging & Mobility     1900",
         "type": "scanner"
+      },
+      {
+        "name": "USB USB Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "Barcode AFANDA BARCODE",
+        "type": "scanner"
       }
     ]
 }
