@@ -192,7 +192,7 @@
       "name": "Kingbridge",
       "code": "7424",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://kingbridge.smrtapp.com",
         "title": "Kingbridge",
         "url": "https://kingbridge.smrtapp.com/POS/",
