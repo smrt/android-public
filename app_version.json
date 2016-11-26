@@ -583,6 +583,22 @@
       {
         "name": "Barcode AFANDA BARCODE",
         "type": "scanner"
+      },
+      {
+        "name": "Logitech Tablet Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "HOLTEK Wireless USB Device",
+        "type": "keyboard"
+      },
+      {
+        "name": "DELL Dell USB Entry Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "Honeywell Imaging & Mobility     1900 2D Imager",
+        "type": "scanner"
       }
     ]
 }
