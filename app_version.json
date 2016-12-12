@@ -311,28 +311,28 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 122,
-          "versionName": "1.4.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.4.1.apk",
-          "crc": "2e477a3a",
+          "versionCode": 123,
+          "versionName": "1.5.0",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.0.apk",
+          "crc": "7a25089d",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "qa": {
-          "versionCode": 122,
-          "versionName": "1.4.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.4.1.apk",
-          "crc": "2e477a3a",
+          "versionCode": 123,
+          "versionName": "1.5.0",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.0.apk",
+          "crc": "7a25089d",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "test": {
-          "versionCode": 122,
-          "versionName": "1.4.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.4.1.apk",
-          "crc": "2e477a3a",
+          "versionCode": 123,
+          "versionName": "1.5.0",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.0.apk",
+          "crc": "7a25089d",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
