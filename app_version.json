@@ -307,6 +307,18 @@
         "pusher_channel": "messagestintoreriabosques",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://tintoreriabosques.smrtapp.com"}
+    },
+    {
+      "name": "Fluff and Fold",
+      "code": "3583",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://fluffandfold.smrtapp.com",
+        "title": "Fluff and Fold",
+        "url": "https://fluffandfold.smrtapp.com/POS/",
+        "pusher_channel": "messagesfluffandfold_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://fluffandfold.smrtapp.com"}
     }
   ],
   "channels": {
