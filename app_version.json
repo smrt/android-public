@@ -323,28 +323,28 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 125,
-          "versionName": "1.5.1 rollback-xwalk",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.1-rollback-xwalk.apk",
-          "crc": "4ecde85a",
+          "versionCode": 126,
+          "versionName": "1.5.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.2.apk",
+          "crc": "2af1f9f4",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "qa": {
-          "versionCode": 124,
-          "versionName": "1.5.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.1.apk",
-          "crc": "ece4eb58",
+          "versionCode": 126,
+          "versionName": "1.5.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.2.apk",
+          "crc": "2af1f9f4",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "test": {
-          "versionCode": 124,
-          "versionName": "1.5.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.1.apk",
-          "crc": "ece4eb58",
+          "versionCode": 126,
+          "versionName": "1.5.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.2.apk",
+          "crc": "2af1f9f4",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
