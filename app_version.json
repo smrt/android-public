@@ -192,7 +192,7 @@
       "name": "Kingbridge",
       "code": "7424",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "contact",
         "base_url": "https://kingbridge.smrtapp.com",
         "title": "Kingbridge",
         "url": "https://kingbridge.smrtapp.com/POS/",
@@ -367,10 +367,10 @@
           "emoji": "&#x1F600"
       },
       "contact": {
-          "versionCode": 124,
-          "versionName": "1.5.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.1.apk",
-          "crc": "ece4eb58",
+          "versionCode": 126,
+          "versionName": "1.5.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.2.apk",
+          "crc": "2af1f9f4",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       }
