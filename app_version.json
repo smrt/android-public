@@ -611,6 +611,10 @@
       {
         "name": "Honeywell Imaging & Mobility     1900 2D Imager",
         "type": "scanner"
+      },
+      {
+        "name": "Plus More Enterprise LTD. USB-compliant keyboard",
+        "type": "keyboard"
       }
     ]
 }
