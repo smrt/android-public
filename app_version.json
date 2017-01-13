@@ -180,7 +180,7 @@
       "name": "Crest Advanced Dry Cleaners",
       "code": "9669",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "contact",
         "base_url": "https://crest.smrtapp.com",
         "title": "Crest",
         "url": "https://crest.smrtapp.com/POS/",
