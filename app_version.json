@@ -323,10 +323,10 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 127,
-          "versionName": "1.5.3",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.3.apk",
-          "crc": "955af4e4",
+          "versionCode": 128,
+          "versionName": "1.5.3 rollback-xwalk",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.3-rollback-xwalk.apk",
+          "crc": "9975c25e",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
