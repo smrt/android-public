@@ -367,10 +367,10 @@
           "emoji": "&#x1F600"
       },
       "contact": {
-          "versionCode": 126,
-          "versionName": "1.5.2",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.2.apk",
-          "crc": "2af1f9f4",
+          "versionCode": 127,
+          "versionName": "1.5.3",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.3.apk",
+          "crc": "955af4e4",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       }
