@@ -276,7 +276,7 @@
       "name": "Redcap Services",
       "code": "7332",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://redcap.smrtapp.com",
         "title": "Redcap Services",
         "url": "https://redcap.smrtapp.com/POS/",
@@ -350,10 +350,10 @@
       },
 
       "implementing": {
-          "versionCode": 125,
-          "versionName": "1.5.1 rollback-xwalk",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.1-rollback-xwalk.apk",
-          "crc": "4ecde85a",
+          "versionCode": 128,
+          "versionName": "1.5.3 rollback-xwalk",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.3-rollback-xwalk.apk",
+          "crc": "9975c25e",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
