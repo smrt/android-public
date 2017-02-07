@@ -350,10 +350,10 @@
       },
 
       "implementing": {
-          "versionCode": 128,
-          "versionName": "1.5.3 rollback-xwalk",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.3-rollback-xwalk.apk",
-          "crc": "9975c25e",
+          "versionCode": 129,
+          "versionName": "1.5.4 rollback-xwalk",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.4-rollback-xwalk.apk",
+          "crc": "b63b2720",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
