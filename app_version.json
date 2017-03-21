@@ -180,7 +180,7 @@
       "name": "Crest Advanced Dry Cleaners",
       "code": "9669",
       "com.smrtsystems.apps": {
-        "channel": "contact",
+        "channel": "production",
         "base_url": "https://crest.smrtapp.com",
         "title": "Crest",
         "url": "https://crest.smrtapp.com/POS/",
@@ -192,7 +192,7 @@
       "name": "Kingbridge",
       "code": "7424",
       "com.smrtsystems.apps": {
-        "channel": "contact",
+        "channel": "production",
         "base_url": "https://kingbridge.smrtapp.com",
         "title": "Kingbridge",
         "url": "https://kingbridge.smrtapp.com/POS/",
@@ -228,7 +228,7 @@
       "name": "Snedicor's",
       "code": "7633",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://snedicors.smrtapp.com",
         "title": "Snedicor's",
         "url": "https://snedicors.smrtapp.com/POS/",
@@ -276,7 +276,7 @@
       "name": "Redcap Services",
       "code": "7332",
       "com.smrtsystems.apps": {
-        "channel": "implementing",
+        "channel": "production",
         "base_url": "https://redcap.smrtapp.com",
         "title": "Redcap Services",
         "url": "https://redcap.smrtapp.com/POS/",
@@ -350,27 +350,27 @@
       },
 
       "implementing": {
-          "versionCode": 129,
-          "versionName": "1.5.4 rollback-xwalk",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.4-rollback-xwalk.apk",
-          "crc": "b63b2720",
+          "versionCode": 132,
+          "versionName": "1.6.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.6.2.apk",
+          "crc": "62cb4f22",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "production": {
-          "versionCode": 124,
-          "versionName": "1.5.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.1.apk",
-          "crc": "ece4eb58",
+          "versionCode": 132,
+          "versionName": "1.6.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.6.2.apk",
+          "crc": "62cb4f22",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
       "contact": {
-          "versionCode": 127,
-          "versionName": "1.5.3",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.5.3.apk",
-          "crc": "955af4e4",
+          "versionCode": 132,
+          "versionName": "1.6.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.6.2.apk",
+          "crc": "62cb4f22",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       }
