@@ -319,6 +319,30 @@
         "pusher_channel": "messagesfluffandfold_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://fluffandfold.smrtapp.com"}
+    },
+    {
+      "name": "Daisy Cleaners",
+      "code": "9742",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://daisycleaners.smrtapp.com",
+        "title": "Daisy Cleaners",
+        "url": "https://daisycleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesdaisycleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://daisycleaners.smrtapp.com"}
+    },
+    {
+      "name": "Pleats",
+      "code": "7531",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://pleats.smrtapp.com",
+        "title": "Pleats",
+        "url": "https://pleats.smrtapp.com/POS/",
+        "pusher_channel": "messagespleats_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://pleats.smrtapp.com"}
     }
   ],
   "channels": {
