@@ -639,6 +639,10 @@
       {
         "name": "Plus More Enterprise LTD. USB-compliant keyboard",
         "type": "keyboard"
+      },
+      {
+        "name": "Unknown Socket CHS [8F3D79]",
+        "type": "scanner"
       }
     ]
 }
