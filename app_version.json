@@ -402,7 +402,9 @@
   "devices": [
       {
         "name": "Hand Held Products 3800G",
-        "type": "scanner"
+        "type": "scanner",
+        "vendorId": 1334,
+        "productId": 743
       },
       {
         "name": "Barcode Reader ",
