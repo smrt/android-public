@@ -343,6 +343,30 @@
         "pusher_channel": "messagespleats_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://pleats.smrtapp.com"}
+    },
+    {
+      "name": "Greener Cleaner",
+      "code": "3636",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://greenercleaner.smrtapp.com",
+        "title": "Greener Cleaner",
+        "url": "https://greenercleaner.smrtapp.com/POS/",
+        "pusher_channel": "messagesgreenercleaner_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://greenercleaner.smrtapp.com"}
+    },
+    {
+      "name": "Sunshine Cleaners",
+      "code": "8484",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://sunshinecleaners.smrtapp.com",
+        "title": "Sunshine Cleaners",
+        "url": "https://sunshinecleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagessunshinecleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://sunshinecleaners.smrtapp.com"}
     }
   ],
   "channels": {
