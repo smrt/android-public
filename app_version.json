@@ -367,6 +367,18 @@
         "pusher_channel": "messagessunshinecleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://sunshinecleaners.smrtapp.com"}
+    },
+    {
+      "name": "Dry Clean NYC",
+      "code": "4999",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://drycleannyc.smrtapp.com",
+        "title": "Dry Clean NYC",
+        "url": "https://drycleannyc.smrtapp.com/POS/",
+        "pusher_channel": "messagesdrycleannyc_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://drycleannyc.smrtapp.com"}
     }
   ],
   "channels": {
