@@ -324,7 +324,7 @@
       "name": "Daisy Cleaners",
       "code": "9742",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "contact",
         "base_url": "https://daisycleaners.smrtapp.com",
         "title": "Daisy Cleaners",
         "url": "https://daisycleaners.smrtapp.com/POS/",
