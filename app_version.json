@@ -685,6 +685,38 @@
       {
         "name": "Unknown Socket CHS [8F3D79]",
         "type": "scanner"
+      },
+      {
+        "name": "2.4G RF Keyboard & Mouse 2.4G RF Keyboard & Mouse",
+        "type": "keyboard"
+      },
+      {
+        "name": "Lite-On Technology Corp. Wireless Device",
+        "type": "keyboard"
+      },
+      {
+        "name": "Chicony USB Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "CHICONY HP Basic USB Keyboard",
+        "type": "keyboard"
+      },
+      {
+        "name": "Sycreader RFID Technology Co., Ltd SYC ID&IC USB Reader",
+        "type": "scanner"
+      },
+      {
+        "name": "Microsoft Wired Keyboard 400",
+        "type": "keyboard"
+      },
+      {
+        "name": "Honeywell Scanning & Mobility  Voyager-1202-Battery-Free",
+        "type": "scanner"
+      },
+      {
+        "name": "SINO WEALTH USB KEYBOARD",
+        "type": "keyboard"
       }
     ]
 }
