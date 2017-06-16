@@ -379,6 +379,30 @@
         "pusher_channel": "messagesdrycleannyc_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://drycleannyc.smrtapp.com"}
+    },
+    {
+      "name": "Reads Laundry & Dry Cleaning",
+      "code": "1365",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://readscleaners.smrtapp.com",
+        "title": "Reads Laundry & Dry Cleaning",
+        "url": "https://readscleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesreadscleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://readscleaners.smrtapp.com"}
+    },
+    {
+      "name": "Orchid Cleaners",
+      "code": "8210",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://orchidcleaners.smrtapp.com",
+        "title": "Orchid Cleaners",
+        "url": "https://orchidcleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesorchidcleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://orchidcleaners.smrtapp.com"}
     }
   ],
   "channels": {
