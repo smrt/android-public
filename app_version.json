@@ -403,6 +403,18 @@
         "pusher_channel": "messagesorchidcleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://orchidcleaners.smrtapp.com"}
+    },
+    {
+      "name": "Best Cleaners",
+      "code": "4725",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://bestcleaners.smrtapp.com",
+        "title": "Best Cleaners",
+        "url": "https://bestcleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesbestcleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://bestcleaners.smrtapp.com"}
     }
   ],
   "channels": {
