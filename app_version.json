@@ -437,36 +437,36 @@
       },
 
       "test": {
-          "versionCode": 133,
-          "versionName": "1.7.0",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.0.apk",
-          "crc": "f0df1ea2",
+          "versionCode": 134,
+          "versionName": "1.7.1",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.1.apk",
+          "crc": "ef9c879f",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "implementing": {
-          "versionCode": 132,
-          "versionName": "1.6.2",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.6.2.apk",
-          "crc": "62cb4f22",
+          "versionCode": 134,
+          "versionName": "1.7.1",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.1.apk",
+          "crc": "ef9c879f",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "production": {
-          "versionCode": 132,
-          "versionName": "1.6.2",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.6.2.apk",
-          "crc": "62cb4f22",
+          "versionCode": 134,
+          "versionName": "1.7.1",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.1.apk",
+          "crc": "ef9c879f",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
       "contact": {
-          "versionCode": 132,
-          "versionName": "1.6.2",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.6.2.apk",
-          "crc": "62cb4f22",
+          "versionCode": 134,
+          "versionName": "1.7.1",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.1.apk",
+          "crc": "ef9c879f",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       }
