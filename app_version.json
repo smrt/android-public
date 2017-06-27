@@ -415,6 +415,18 @@
         "pusher_channel": "messagesbestcleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://bestcleaners.smrtapp.com"}
+    },
+    {
+      "name": "Vara's Dry Cleaning",
+      "code": "8905",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://varas.smrtapp.com",
+        "title": "Vara's Dry Cleaning",
+        "url": "https://varas.smrtapp.com/POS/",
+        "pusher_channel": "messagesvaras_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://varas.smrtapp.com"}
     }
   ],
   "channels": {
