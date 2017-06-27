@@ -96,7 +96,7 @@
       "name": "JJ's Cleaners",
       "code": "1880",
       "com.smrtsystems.apps": {
-        "channel": "production",
+        "channel": "implementing",
         "base_url": "https://jjs.smrtapp.com",
         "title": "JJ's",
         "url": "https://jjs.smrtapp.com/POS/",
@@ -419,37 +419,37 @@
   ],
   "channels": {
       "development": {
-          "versionCode": 134,
-          "versionName": "1.7.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.1.apk",
-          "crc": "ef9c879f",
+          "versionCode": 135,
+          "versionName": "1.7.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.2.apk",
+          "crc": "384789c8",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "qa": {
-          "versionCode": 134,
-          "versionName": "1.7.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.1.apk",
-          "crc": "ef9c879f",
+          "versionCode": 135,
+          "versionName": "1.7.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.2.apk",
+          "crc": "384789c8",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "test": {
-          "versionCode": 134,
-          "versionName": "1.7.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.1.apk",
-          "crc": "ef9c879f",
+          "versionCode": 135,
+          "versionName": "1.7.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.2.apk",
+          "crc": "384789c8",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
 
       "implementing": {
-          "versionCode": 134,
-          "versionName": "1.7.1",
-          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.1.apk",
-          "crc": "ef9c879f",
+          "versionCode": 135,
+          "versionName": "1.7.2",
+          "url": "https://s3-us-west-1.amazonaws.com/smrt-app-revisions/com.smrtsystems.apps-1.7.2.apk",
+          "crc": "384789c8",
           "message": "We have made some updates for you. Press update to try them out!",
           "emoji": "&#x1F600"
       },
