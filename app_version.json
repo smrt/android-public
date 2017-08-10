@@ -765,6 +765,10 @@
       {
         "name": "SINO WEALTH USB KEYBOARD",
         "type": "keyboard"
+      },
+      {
+        "name": "WIT Electron Company WIT 122-UFS V7.03",
+        "type": "scanner"
       }
     ]
 }
