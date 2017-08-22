@@ -427,6 +427,18 @@
         "pusher_channel": "messagesvaras_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://varas.smrtapp.com"}
+    },
+    {
+      "name": "Quality Cleaners Millis",
+      "code": "6744",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://qualitycleanersmillis.smrtapp.com",
+        "title": "Quality Cleaners Millis",
+        "url": "https://qualitycleanersmillis.smrtapp.com/POS/",
+        "pusher_channel": "messagesqualitycleanersmillis_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://qualitycleanersmillis.smrtapp.com"}
     }
   ],
   "channels": {
