@@ -451,6 +451,18 @@
         "pusher_channel": "messagesdrycleanbaltimore_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://drycleanbaltimore.smrtapp.com"}
+    },
+    {
+      "name": "Margaret's",
+      "code": "6291",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://margarets.smrtapp.com",
+        "title": "Margaret's",
+        "url": "https://margarets.smrtapp.com/POS/",
+        "pusher_channel": "messagesmargarets_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://margarets.smrtapp.com"}
     }
   ],
   "channels": {
