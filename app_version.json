@@ -463,6 +463,18 @@
         "pusher_channel": "messagesmargarets_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://margarets.smrtapp.com"}
+    },
+    {
+      "name": "Executive Laundry",
+      "code": "4529",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://executivelaundry.smrtapp.com",
+        "title": "Executive Laundry",
+        "url": "https://executivelaundry.smrtapp.com/POS/",
+        "pusher_channel": "messagesexecutivelaundry_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://executivelaundry.smrtapp.com"}
     }
   ],
   "channels": {
