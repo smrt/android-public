@@ -453,6 +453,18 @@
       "com.smrtsystems.delivery": {"base_url": "https://drycleanbaltimore.smrtapp.com"}
     },
     {
+      "name": "Fabric Care Center",
+      "code": "7273",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://fabriccarecenter.smrtapp.com",
+        "title": "Fabric Care Center",
+        "url": "https://fabriccarecenter.smrtapp.com/POS/",
+        "pusher_channel": "messagesfabriccarecenter_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://fabriccarecenter.smrtapp.com"}
+    }
+    {
       "name": "Margaret's",
       "code": "6291",
       "com.smrtsystems.apps": {
