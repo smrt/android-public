@@ -487,6 +487,18 @@
         "pusher_channel": "messagesexecutivelaundry_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://executivelaundry.smrtapp.com"}
+    },
+    {
+      "name": "Green Value Cleaners",
+      "code": "3624",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://greenvaluecleaners.smrtapp.com",
+        "title": "Green Value Cleaners",
+        "url": "https://greenvaluecleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesgreenvaluecleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://greenvaluecleaners.smrtapp.com"}
     }
   ],
   "channels": {
