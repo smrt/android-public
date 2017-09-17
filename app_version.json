@@ -499,6 +499,18 @@
         "pusher_channel": "messagesgreenvaluecleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://greenvaluecleaners.smrtapp.com"}
+    },
+    {
+      "name": "Spiffy's Cleaners",
+      "code": "4282",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://spiffys.smrtapp.com",
+        "title": "Spiffy's Cleaners",
+        "url": "https://spiffys.smrtapp.com/POS/",
+        "pusher_channel": "messagesspiffys_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://spiffys.smrtapp.com"}
     }
   ],
   "channels": {
