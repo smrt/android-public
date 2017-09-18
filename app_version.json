@@ -463,7 +463,7 @@
         "pusher_channel": "messagesfabriccarecenter_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://fabriccarecenter.smrtapp.com"}
-    }
+    },
     {
       "name": "Margaret's",
       "code": "6291",
