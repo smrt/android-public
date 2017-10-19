@@ -511,6 +511,18 @@
         "pusher_channel": "messagesspiffys_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://spiffys.smrtapp.com"}
+    },
+    {
+      "name": "Bobby Pages",
+      "code": "6942",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://bobbypages.smrtapp.com",
+        "title": "Bobby Pages",
+        "url": "https://bobbypages.smrtapp.com/POS/",
+        "pusher_channel": "messagesbobbypages_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://bobbypages.smrtapp.com"}
     }
   ],
   "channels": {
