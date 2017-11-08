@@ -535,6 +535,18 @@
         "pusher_channel": "messagesmaxcleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://maxcleaners.smrtapp.com"}
+    },
+    {
+      "name": "Fresh Cycle Cleaners",
+      "code": "2601",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://freshcyclecleaners.smrtapp.com",
+        "title": "Fresh Cycle Cleaners",
+        "url": "https://freshcyclecleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesfreshcyclecleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://freshcyclecleaners.smrtapp.com"}
     }
   ],
   "channels": {
