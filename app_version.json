@@ -12,6 +12,17 @@
       "com.smrtsystems.delivery": {"base_url": "https://qa.smrtapp.com"}
     },
     {
+      "name": "EXP QA",
+      "code": "4321",
+      "com.smrtsystems.apps": {
+        "channel": "expqa",
+        "base_url": "https://expqa.smrtapp.com",
+        "title": "EXP QA",
+        "pusher_channel": "messagesexpqa_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://expqa.smrtapp.com"}
+    },
+    {
       "name": "Sandbox",
       "code": "0000",
       "com.smrtsystems.apps": {
