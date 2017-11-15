@@ -558,6 +558,18 @@
         "pusher_channel": "messagesfreshcyclecleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://freshcyclecleaners.smrtapp.com"}
+    },
+    {
+      "name": "Tweeds Dry Cleaners",
+      "code": "3891",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://tweeds.smrtapp.com",
+        "title": "Tweeds Dry Cleaners",
+        "url": "https://tweeds.smrtapp.com/POS/",
+        "pusher_channel": "messagestweedss_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://tweeds.smrtapp.com"}
     }
   ],
   "channels": {
