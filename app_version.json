@@ -567,9 +567,21 @@
         "base_url": "https://tweeds.smrtapp.com",
         "title": "Tweeds Dry Cleaners",
         "url": "https://tweeds.smrtapp.com/POS/",
-        "pusher_channel": "messagestweedss_prod",
+        "pusher_channel": "messagestweeds_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://tweeds.smrtapp.com"}
+    },
+    {
+      "name": "Inkster Prints",
+      "code": "4652",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://inksterprints.smrtapp.com",
+        "title": "Inkster Prints",
+        "url": "https://inksterprints.smrtapp.com/POS/",
+        "pusher_channel": "messagesinksterprints_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://inksterprints.smrtapp.com"}
     }
   ],
   "channels": {
