@@ -582,6 +582,30 @@
         "pusher_channel": "messagesinksterprints_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://inksterprints.smrtapp.com"}
+    },
+    {
+      "name": "Lookin Sharp",
+      "code": "2299",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://lookinsharp.smrtapp.com",
+        "title": "Lookin Sharp",
+        "url": "https://lookinsharp.smrtapp.com/POS/",
+        "pusher_channel": "messageslookinsharp_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://lookinsharp.smrtapp.com"}
+    },
+    {
+      "name": "Soap Box Cleaners",
+      "code": "3763",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://soapboxcleaners.smrtapp.com",
+        "title": "Soap Box Cleaners",
+        "url": "https://soapboxcleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagessoapboxcleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://soapboxcleaners.smrtapp.com"}
     }
   ],
   "channels": {
