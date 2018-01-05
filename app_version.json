@@ -606,6 +606,18 @@
         "pusher_channel": "messagessoapboxcleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://soapboxcleaners.smrtapp.com"}
+    },
+    {
+      "name": "Total Cleaners",
+      "code": "8242",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://totalcleaners.smrtapp.com",
+        "title": "Total Cleaners",
+        "url": "https://totalcleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagestotalcleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://totalcleaners.smrtapp.com"}
     }
   ],
   "channels": {
