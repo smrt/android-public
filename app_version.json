@@ -618,6 +618,18 @@
         "pusher_channel": "messagestotalcleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://totalcleaners.smrtapp.com"}
+    },
+    {
+      "name": "Ace Tailors",
+      "code": "1765",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://acetailors.smrtapp.com",
+        "title": "Ace Tailors",
+        "url": "https://acetailors.smrtapp.com/POS/",
+        "pusher_channel": "messagesacetailors_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://acetailors.smrtapp.com"}
     }
   ],
   "channels": {
