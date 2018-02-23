@@ -15,7 +15,7 @@
       "name": "EXP QA",
       "code": "4321",
       "com.smrtsystems.apps": {
-        "channel": "expqa",
+        "channel": "qa",
         "base_url": "https://expqa.smrtapp.com",
         "title": "EXP QA",
         "pusher_channel": "messagesexpqa_prod",
@@ -26,7 +26,7 @@
       "name": "SWE QA",
       "code": "1997",
       "com.smrtsystems.apps": {
-        "channel": "sweqa",
+        "channel": "qa",
         "base_url": "https://sweqa.smrtapp.com",
         "title": "SWE QA",
         "pusher_channel": "messagessweqa_prod",
