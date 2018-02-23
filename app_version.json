@@ -23,6 +23,17 @@
       "com.smrtsystems.delivery": {"base_url": "https://expqa.smrtapp.com"}
     },
     {
+      "name": "SWE QA",
+      "code": "1997",
+      "com.smrtsystems.apps": {
+        "channel": "sweqa",
+        "base_url": "https://sweqa.smrtapp.com",
+        "title": "SWE QA",
+        "pusher_channel": "messagessweqa_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://sweqa.smrtapp.com"}
+    },
+    {
       "name": "Sandbox",
       "code": "0000",
       "com.smrtsystems.apps": {
