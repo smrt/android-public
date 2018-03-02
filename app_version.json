@@ -641,6 +641,18 @@
         "pusher_channel": "messagesacetailors_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://acetailors.smrtapp.com"}
+    },
+    {
+      "name": "Hutchinson Cleaners",
+      "code": "6422",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://hutchinsoncleaners.smrtapp.com",
+        "title": "Hutchinson Cleaners",
+        "url": "https://hutchinsoncleaners.smrtapp.com/POS/",
+        "pusher_channel": "messageshutchinsoncleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://hutchinsoncleaners.smrtapp.com"}
     }
   ],
   "channels": {
