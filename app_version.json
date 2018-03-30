@@ -653,6 +653,30 @@
         "pusher_channel": "messageshutchinsoncleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://hutchinsoncleaners.smrtapp.com"}
+    },
+    {
+      "name": "Kroner Cleaners",
+      "code": "1301",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://kronercleaners.smrtapp.com",
+        "title": "Kroner Cleaners",
+        "url": "https://kronercleaners.smrtapp.com/POS/",
+        "pusher_channel": "messageskronercleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://kronercleaners.smrtapp.com"}
+    },
+    {
+      "name": "Spot On Cleaners",
+      "code": "8008",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://spoton.smrtapp.com",
+        "title": "Spot On Cleaners",
+        "url": "https://spoton.smrtapp.com/POS/",
+        "pusher_channel": "messagesspoton_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://spoton.smrtapp.com"}
     }
   ],
   "channels": {
