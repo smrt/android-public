@@ -677,6 +677,18 @@
         "pusher_channel": "messagesspoton_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://spoton.smrtapp.com"}
+    },
+    {
+      "name": "Duro Cleaners",
+      "code": "4356",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://durocleaners.smrtapp.com",
+        "title": "Duro Cleaners",
+        "url": "https://durocleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesdurocleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://durocleaners.smrtapp.com"}
     }
   ],
   "channels": {
