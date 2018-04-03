@@ -689,6 +689,18 @@
         "pusher_channel": "messagesdurocleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://durocleaners.smrtapp.com"}
+    },
+    {
+      "name": "Elite Dry Cleaner",
+      "code": "9198",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://elitedrycleaner.smrtapp.com",
+        "title": "Elite Dry Cleaner",
+        "url": "https://elitedrycleaner.smrtapp.com/POS/",
+        "pusher_channel": "messageselitedrycleaner_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://elitedrycleaner.smrtapp.com"}
     }
   ],
   "channels": {
