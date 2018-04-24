@@ -701,6 +701,18 @@
         "pusher_channel": "messageselitedrycleaner_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://elitedrycleaner.smrtapp.com"}
+    },
+    {
+      "name": "Hollywood Cleaners",
+      "code": "1982",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://hollywoodcleaners.smrtapp.com",
+        "title": "Hollywood Cleaners",
+        "url": "https://hollywoodcleaners.smrtapp.com/POS/",
+        "pusher_channel": "messageshollywoodcleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://hollywoodcleaners.smrtapp.com"}
     }
   ],
   "channels": {
