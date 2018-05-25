@@ -703,6 +703,18 @@
       "com.smrtsystems.delivery": {"base_url": "https://elitedrycleaner.smrtapp.com"}
     },
     {
+      "name": "Waterstone Cleaners",
+      "code": "4243",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://waterstonecleaners.smrtapp.com",
+        "title": "Waterstone Cleaners",
+        "url": "https://waterstonecleaners.smrtapp.com/POS/",
+        "pusher_channel": "messageswatertonecleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://waterstonecleaners.smrtapp.com"}
+    },
+    {
       "name": "Hollywood Cleaners",
       "code": "1982",
       "com.smrtsystems.apps": {
