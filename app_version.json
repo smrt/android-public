@@ -725,6 +725,18 @@
         "pusher_channel": "messageshollywoodcleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://hollywoodcleaners.smrtapp.com"}
+    },
+    {
+      "name": "Laundry Magic Super Laundromat",
+      "code": "3041",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://laundrymagic.smrtapp.com",
+        "title": "Laundry Magic Super Laundromat",
+        "url": "https://laundrymagic.smrtapp.com/POS/",
+        "pusher_channel": "messageslaundrymagic_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://laundrymagic.smrtapp.com"}
     }
   ],
   "channels": {
