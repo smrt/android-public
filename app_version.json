@@ -737,6 +737,30 @@
         "pusher_channel": "messageslaundrymagic_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://laundrymagic.smrtapp.com"}
+    },
+    {
+      "name": "Wash Club NJ",
+      "code": "5572",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://washclubnj.smrtapp.com",
+        "title": "Wash Club NJ",
+        "url": "https://washclubnj.smrtapp.com/POS/",
+        "pusher_channel": "messageswashclubnj_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://washclubnj.smrtapp.com"}
+    },
+    {
+      "name": "Radiant Leather Care",
+      "code": "8611",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://radiantleather.smrtapp.com",
+        "title": "Radiant Leather Care",
+        "url": "https://radiantleather.smrtapp.com/POS/",
+        "pusher_channel": "messagesradiantleather_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://radiantleather.smrtapp.com"}
     }
   ],
   "channels": {
