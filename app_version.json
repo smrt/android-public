@@ -761,6 +761,18 @@
         "pusher_channel": "messagesradiantleather_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://radiantleather.smrtapp.com"}
+    },
+    {
+      "name": "Helena's Cleaners",
+      "code": "3499",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://helenascleaners.smrtapp.com",
+        "title": "Helena's Cleaners",
+        "url": "https://helenascleaners.smrtapp.com/POS/",
+        "pusher_channel": "messageshelenascleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://helenascleaners.smrtapp.com"}
     }
   ],
   "channels": {
