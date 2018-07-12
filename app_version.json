@@ -773,6 +773,18 @@
         "pusher_channel": "messageshelenascleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://helenascleaners.smrtapp.com"}
+    },
+    {
+      "name": "Starcrest Cleaners",
+      "code": "6792",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://starcrestcleaners.smrtapp.com",
+        "title": "Starcrest Cleaners",
+        "url": "https://starcrestcleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesstarcrestcleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://starcrestcleaners.smrtapp.com"}
     }
   ],
   "channels": {
