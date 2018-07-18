@@ -785,6 +785,18 @@
         "pusher_channel": "messagesstarcrestcleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://starcrestcleaners.smrtapp.com"}
+    },
+    {
+      "name": "Starcrest Cleaners Indy",
+      "code": "6793",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://starcrestcleanersindy.smrtapp.com",
+        "title": "Starcrest Cleaners Indy",
+        "url": "https://starcrestcleanersindy.smrtapp.com/POS/",
+        "pusher_channel": "messagesstarcrestcleanersindy_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://starcrestcleanersindy.smrtapp.com"}
     }
   ],
   "channels": {
