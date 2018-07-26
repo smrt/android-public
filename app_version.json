@@ -13,7 +13,7 @@
     },
     {
       "name": "EXP QA",
-      "code": "4321",
+      "code": "4320",
       "com.smrtsystems.apps": {
         "channel": "qa",
         "base_url": "https://expqa.smrtapp.com",
