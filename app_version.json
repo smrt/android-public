@@ -797,6 +797,18 @@
         "pusher_channel": "messagesstarcrestcleanersindy_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://starcrestcleanersindy.smrtapp.com"}
+    },
+    {
+      "name": "Liberty Computer",
+      "code": "4321",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://libertycomputers.smrtapp.com",
+        "title": "Liberty Computer",
+        "url": "https://libertycomputers.smrtapp.com/POS/",
+        "pusher_channel": "messageslibertycomputers_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://libertycomputers.smrtapp.com"}
     }
   ],
   "channels": {
