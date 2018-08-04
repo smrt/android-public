@@ -809,6 +809,18 @@
         "pusher_channel": "messageslibertycomputers_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://libertycomputers.smrtapp.com"}
+    },
+    {
+      "name": "Clean NYC",
+      "code": "6982",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://cleannyc.smrtapp.com",
+        "title": "Clean NYC",
+        "url": "https://cleannyc.smrtapp.com/POS/",
+        "pusher_channel": "messagescleannyc_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://cleannyc.smrtapp.com"}
     }
   ],
   "channels": {
