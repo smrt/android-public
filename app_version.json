@@ -821,6 +821,18 @@
         "pusher_channel": "messagescleannyc_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://cleannyc.smrtapp.com"}
+    },
+    {
+      "name": "Suits & Skirts",
+      "code": "0203",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://nyccleaners.smrtapp.com",
+        "title": "Suits & Skirts",
+        "url": "https://nyccleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesnyccleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://nyccleaners.smrtapp.com"}
     }
   ],
   "channels": {
