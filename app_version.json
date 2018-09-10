@@ -844,8 +844,8 @@
         "url": "https://sudsies.smrtapp.com/POS/",
         "pusher_channel": "messagessudsies_prod",
         "store_id": "10005"},
-      "com.smrtsystems.delivery": {"base_url": "https://sudsies.smrtapp.com"},
-    }
+      "com.smrtsystems.delivery": {"base_url": "https://sudsies.smrtapp.com"}
+    },
     {
       "name": "My Greener Cleaner",
       "code": "3006",
