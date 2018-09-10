@@ -835,6 +835,18 @@
       "com.smrtsystems.delivery": {"base_url": "https://nyccleaners.smrtapp.com"}
     },
     {
+      "name": "Sudsies Cleaners",
+      "code": "5055",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://sudsies.smrtapp.com",
+        "title": "Sudsies Cleaners",
+        "url": "https://sudsies.smrtapp.com/POS/",
+        "pusher_channel": "messagessudsies_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://sudsies.smrtapp.com"}
+    }
+    {
       "name": "My Greener Cleaner",
       "code": "3006",
       "com.smrtsystems.apps": {
