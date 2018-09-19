@@ -857,6 +857,18 @@
         "pusher_channel": "messagesmygreenercleaner_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://mygreenercleaner.smrtapp.com"}
+    },
+    {
+      "name": "Acme Cleaners",
+      "code": "4880",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://acmecleanersmi.smrtapp.com",
+        "title": "Acme Cleaners",
+        "url": "https://acmecleanersmi.smrtapp.com/POS/",
+        "pusher_channel": "messagesmyacmecleanersmi_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://acmecleanersmi.smrtapp.com"}
     }
   ],
   "channels": {
