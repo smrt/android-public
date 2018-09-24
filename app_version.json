@@ -881,6 +881,18 @@
         "pusher_channel": "messagestowndrycleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://towndrycleaners.smrtapp.com"}
+    },
+    {
+      "name": "Pristine Cleaners",
+      "code": "1431",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://bestdrycleaningnaples.smrtapp.com",
+        "title": "Pristine Cleaners",
+        "url": "https://bestdrycleaningnaples.smrtapp.com/POS/",
+        "pusher_channel": "messagesbestdrycleaningnaples_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://bestdrycleaningnaples.smrtapp.com"}
     }
   ],
   "channels": {
