@@ -869,6 +869,18 @@
         "pusher_channel": "messagesmyacmecleanersmi_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://acmecleanersmi.smrtapp.com"}
+    },
+    {
+      "name": "Town Dry Cleaners",
+      "code": "5912",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://towndrycleaners.smrtapp.com",
+        "title": "Town Dry Cleaners",
+        "url": "https://towndrycleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagestowndrycleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://towndrycleaners.smrtapp.com"}
     }
   ],
   "channels": {
