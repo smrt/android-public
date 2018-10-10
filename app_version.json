@@ -893,6 +893,18 @@
         "pusher_channel": "messagesbestdrycleaningnaples_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://bestdrycleaningnaples.smrtapp.com"}
+    },
+    {
+      "name": "Country Club Cleaners",
+      "code": "3035",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://countryclubcleaners.smrtapp.com",
+        "title": "Country Club Cleaners",
+        "url": "https://countryclubcleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagescountryclubcleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://countryclubcleaners.smrtapp.com"}
     }
   ],
   "channels": {
