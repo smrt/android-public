@@ -905,6 +905,18 @@
         "pusher_channel": "messagescountryclubcleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://countryclubcleaners.smrtapp.com"}
+    },
+    {
+      "name": "A Cleaner World",
+      "code": "7473",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://acleanerworld.smrtapp.com",
+        "title": "A Cleaner World",
+        "url": "https://acleanerworld.smrtapp.com/POS/",
+        "pusher_channel": "messagesacleanerworld_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://acleanerworld.smrtapp.com"}
     }
   ],
   "channels": {
