@@ -917,6 +917,30 @@
         "pusher_channel": "messagesacleanerworld_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://acleanerworld.smrtapp.com"}
+    },
+    {
+      "name": "La Salle",
+      "code": "2244",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://lasalledrycleaners.smrtapp.com",
+        "title": "La Salle",
+        "url": "https://lasalledrycleaners.smrtapp.com/POS/",
+        "pusher_channel": "messageslasalledrycleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://lasalledrycleaners.smrtapp.com"}
+    },
+    {
+      "name": "Rey's Cleaners",
+      "code": "0888",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://reysdrycleaninggroup.smrtapp.com",
+        "title": "Rey's Cleaners",
+        "url": "https://reysdrycleaninggroup.smrtapp.com/POS/",
+        "pusher_channel": "messagesreysdrycleaninggroup_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://reysdrycleaninggroup.smrtapp.com"}
     }
   ],
   "channels": {
