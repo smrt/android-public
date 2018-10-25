@@ -941,6 +941,30 @@
         "pusher_channel": "messagesreysdrycleaninggroup_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://reysdrycleaninggroup.smrtapp.com"}
+    },
+    {
+      "name": "American Dry Cleaners",
+      "code": "1653",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://americandrycleaners.smrtapp.com",
+        "title": "American Dry Cleaners",
+        "url": "https://americandrycleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesamericandrycleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://americandrycleaners.smrtapp.com"}
+    },
+    {
+      "name": "McCormick Brothers",
+      "code": "6913",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://mccormickbrothers.smrtapp.com",
+        "title": "McCormick Brothers",
+        "url": "https://mccormickbrothers.smrtapp.com/POS/",
+        "pusher_channel": "messagesmccormickbrothers_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://mccormickbrothers.smrtapp.com"}
     }
   ],
   "channels": {
