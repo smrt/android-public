@@ -977,6 +977,18 @@
         "pusher_channel": "messagesmeranucleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://meranucleaners.smrtapp.com"}
+    },
+    {
+      "name": "Bridgestone Cleaners",
+      "code": "6677",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://bridgestonecleaners.smrtapp.com",
+        "title": "Bridgestone Cleaners",
+        "url": "https://bridgestonecleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesbridgestonecleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://bridgestonecleaners.smrtapp.com"}
     }
   ],
   "channels": {
