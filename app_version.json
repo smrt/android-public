@@ -1001,6 +1001,18 @@
         "pusher_channel": "messagesprestigecleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://prestigecleaners.smrtapp.com"}
+    },
+    {
+      "name": "Morrell's Dry Cleaners",
+      "code": "4231",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://morrellsdrycleaners.smrtapp.com",
+        "title": "Morrell's Dry Cleaners",
+        "url": "https://morrellsdrycleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesmorrellsdrycleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://morrellsdrycleaners.smrtapp.com"}
     }
   ],
   "channels": {
