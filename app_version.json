@@ -1013,6 +1013,18 @@
         "pusher_channel": "messagesmorrellsdrycleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://morrellsdrycleaners.smrtapp.com"}
+    },
+    {
+      "name": "Sun Country Cleaners",
+      "code": "7575",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://suncountrycleaners.smrtapp.com",
+        "title": "Sun Country Cleaners",
+        "url": "https://suncountrycleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagessuncountrycleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://suncountrycleaners.smrtapp.com"}
     }
   ],
   "channels": {
