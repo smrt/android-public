@@ -1025,6 +1025,18 @@
         "pusher_channel": "messagessuncountrycleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://suncountrycleaners.smrtapp.com"}
+    },
+    {
+      "name": "D.O. Summers",
+      "code": "8269",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://dosummers.smrtapp.com",
+        "title": "D.O. Summers",
+        "url": "https://dosummers.smrtapp.com/POS/",
+        "pusher_channel": "messagesdosummers_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://dosummers.smrtapp.com"}
     }
   ],
   "channels": {
