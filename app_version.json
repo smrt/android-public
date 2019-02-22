@@ -1037,6 +1037,18 @@
         "pusher_channel": "messagesdosummers_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://dosummers.smrtapp.com"}
+    },
+    {
+      "name": "Fashion Cleaners",
+      "code": "4477",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://fashioncleaners.smrtapp.com",
+        "title": "Fashion Cleaners",
+        "url": "https://fashioncleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesfashioncleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://fashioncleaners.smrtapp.com"}
     }
   ],
   "channels": {
