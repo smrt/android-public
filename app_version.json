@@ -1049,6 +1049,18 @@
         "pusher_channel": "messagesfashioncleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://fashioncleaners.smrtapp.com"}
+    },
+    {
+      "name": "J's Cleaners",
+      "code": "5550",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://jscleaners.smrtapp.com",
+        "title": "J's Cleaners",
+        "url": "https://jscleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesjscleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://jscleaners.smrtapp.com"}
     }
   ],
   "channels": {
