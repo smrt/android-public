@@ -1061,6 +1061,18 @@
         "pusher_channel": "messagesjscleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://jscleaners.smrtapp.com"}
+    },
+    {
+      "name": "Janet Davis Cleaners",
+      "code": "9006",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://janetdaviscleaners.smrtapp.com",
+        "title": "Janet Davis Cleaners",
+        "url": "https://janetdaviscleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagesjanetdaviscleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://janetdaviscleaners.smrtapp.com"}
     }
   ],
   "channels": {
