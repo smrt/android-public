@@ -1073,8 +1073,7 @@
         "pusher_channel": "messagesjanetdaviscleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://janetdaviscleaners.smrtapp.com"}
-    }
-    ,
+    },
     {
       "name": "Pete's Cleaners Inc",
       "code": "9020",
