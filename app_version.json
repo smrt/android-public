@@ -1074,6 +1074,19 @@
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://janetdaviscleaners.smrtapp.com"}
     }
+    ,
+    {
+      "name": "Pete's Cleaners Inc",
+      "code": "9020",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://petescleaners.smrtapp.com",
+        "title": "Pete's Cleaners Inc",
+        "url": "https://petescleaners.smrtapp.com/POS/",
+        "pusher_channel": "messagespetescleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://petescleaners.smrtapp.com"}
+    }
   ],
   "channels": {
       "development": {
