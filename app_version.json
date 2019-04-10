@@ -1085,6 +1085,30 @@
         "pusher_channel": "messagespetescleaners_prod",
         "store_id": "10005"},
       "com.smrtsystems.delivery": {"base_url": "https://petescleaners.smrtapp.com"}
+    },
+    {
+      "name": "Just Shirts Bermuda",
+      "code": "3322",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://justshirtsbermuda.smrtapp.com",
+        "title": "Just Shirts Bermuda",
+        "url": "https://justshirtsbermuda.smrtapp.com/POS/",
+        "pusher_channel": "messagesjustshirtsbermuda_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://justshirtsbermuda.smrtapp.com"}
+    },
+    {
+      "name": "Hilliard Cleaners",
+      "code": "8090",
+      "com.smrtsystems.apps": {
+        "channel": "production",
+        "base_url": "https://hilliarddrycleaners.smrtapp.com",
+        "title": "Hilliard Cleaners",
+        "url": "https://hilliarddrycleaners.smrtapp.com/POS/",
+        "pusher_channel": "messageshilliarddrycleaners_prod",
+        "store_id": "10005"},
+      "com.smrtsystems.delivery": {"base_url": "https://hilliarddrycleaners.smrtapp.com"}
     }
   ],
   "channels": {
